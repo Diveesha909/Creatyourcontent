@@ -1,0 +1,3913 @@
+[
+  {
+    "influencer_id": "influencer_001",
+    "username": "lifestyle_star_1",
+    "niche": "Lifestyle",
+    "followers_start": 54209,
+    "monthly_follower_growth_pct": -0.78,
+    "avg_engagement_rate": 0.0617,
+    "post_count": 12,
+    "posts": [
+      {
+        "post_id": "influencer_001_post_1",
+        "caption": "Check out my latest lifestyle post! #fashion #photography #life",
+        "hashtags": [
+          "#fashion",
+          "#photography",
+          "#life"
+        ],
+        "likes": 1260,
+        "comments": 18,
+        "shares": 7,
+        "views": 4257,
+        "timestamp": "2023-02-28T13:16:23",
+        "followers_at_post": 53785,
+        "engagement_rate": 0.0239
+      },
+      {
+        "post_id": "influencer_001_post_2",
+        "caption": "Check out my latest lifestyle post! #style #fashion",
+        "hashtags": [
+          "#style",
+          "#fashion"
+        ],
+        "likes": 2819,
+        "comments": 133,
+        "shares": 35,
+        "views": 5809,
+        "timestamp": "2023-04-07T14:05:30",
+        "followers_at_post": 52949,
+        "engagement_rate": 0.0564
+      },
+      {
+        "post_id": "influencer_001_post_3",
+        "caption": "Check out my latest lifestyle post! #travel #life #foodie",
+        "hashtags": [
+          "#travel",
+          "#life",
+          "#foodie"
+        ],
+        "likes": 1086,
+        "comments": 48,
+        "shares": 21,
+        "views": 4532,
+        "timestamp": "2023-05-03T16:46:44",
+        "followers_at_post": 52536,
+        "engagement_rate": 0.022
+      },
+      {
+        "post_id": "influencer_001_post_4",
+        "caption": "Check out my latest lifestyle post! #life #foodie #fashion #style",
+        "hashtags": [
+          "#life",
+          "#foodie",
+          "#fashion",
+          "#style"
+        ],
+        "likes": 2837,
+        "comments": 74,
+        "shares": 45,
+        "views": 11326,
+        "timestamp": "2023-09-16T18:04:55",
+        "followers_at_post": 50914,
+        "engagement_rate": 0.0581
+      },
+      {
+        "post_id": "influencer_001_post_5",
+        "caption": "Check out my latest lifestyle post! #travel #style #life",
+        "hashtags": [
+          "#travel",
+          "#style",
+          "#life"
+        ],
+        "likes": 2310,
+        "comments": 57,
+        "shares": 14,
+        "views": 6747,
+        "timestamp": "2023-09-25T23:42:08",
+        "followers_at_post": 50914,
+        "engagement_rate": 0.0468
+      },
+      {
+        "post_id": "influencer_001_post_6",
+        "caption": "Check out my latest lifestyle post! #style #life #photography",
+        "hashtags": [
+          "#style",
+          "#life",
+          "#photography"
+        ],
+        "likes": 4061,
+        "comments": 149,
+        "shares": 40,
+        "views": 18448,
+        "timestamp": "2023-10-16T16:51:56",
+        "followers_at_post": 50517,
+        "engagement_rate": 0.0841
+      },
+      {
+        "post_id": "influencer_001_post_7",
+        "caption": "Check out my latest lifestyle post! #photography #travel #life #style",
+        "hashtags": [
+          "#photography",
+          "#travel",
+          "#life",
+          "#style"
+        ],
+        "likes": 4200,
+        "comments": 100,
+        "shares": 40,
+        "views": 11867,
+        "timestamp": "2023-10-29T09:53:59",
+        "followers_at_post": 50517,
+        "engagement_rate": 0.0859
+      },
+      {
+        "post_id": "influencer_001_post_8",
+        "caption": "Check out my latest lifestyle post! #life #fashion",
+        "hashtags": [
+          "#life",
+          "#fashion"
+        ],
+        "likes": 1445,
+        "comments": 54,
+        "shares": 27,
+        "views": 3332,
+        "timestamp": "2024-03-01T09:08:04",
+        "followers_at_post": 48576,
+        "engagement_rate": 0.0314
+      },
+      {
+        "post_id": "influencer_001_post_9",
+        "caption": "Check out my latest lifestyle post! #style #foodie",
+        "hashtags": [
+          "#style",
+          "#foodie"
+        ],
+        "likes": 4637,
+        "comments": 48,
+        "shares": 70,
+        "views": 18557,
+        "timestamp": "2024-03-17T22:51:22",
+        "followers_at_post": 48576,
+        "engagement_rate": 0.0979
+      },
+      {
+        "post_id": "influencer_001_post_10",
+        "caption": "Check out my latest lifestyle post! #fashion #travel",
+        "hashtags": [
+          "#fashion",
+          "#travel"
+        ],
+        "likes": 4397,
+        "comments": 168,
+        "shares": 50,
+        "views": 8765,
+        "timestamp": "2024-03-26T23:58:55",
+        "followers_at_post": 48576,
+        "engagement_rate": 0.095
+      },
+      {
+        "post_id": "influencer_001_post_11",
+        "caption": "Check out my latest lifestyle post! #life #fashion",
+        "hashtags": [
+          "#life",
+          "#fashion"
+        ],
+        "likes": 2018,
+        "comments": 30,
+        "shares": 39,
+        "views": 5144,
+        "timestamp": "2024-04-24T13:32:51",
+        "followers_at_post": 48197,
+        "engagement_rate": 0.0433
+      },
+      {
+        "post_id": "influencer_001_post_12",
+        "caption": "Check out my latest lifestyle post! #life #foodie #photography",
+        "hashtags": [
+          "#life",
+          "#foodie",
+          "#photography"
+        ],
+        "likes": 4390,
+        "comments": 169,
+        "shares": 36,
+        "views": 20777,
+        "timestamp": "2024-05-30T18:11:54",
+        "followers_at_post": 47821,
+        "engagement_rate": 0.0961
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_002",
+    "username": "lifestyle_star_2",
+    "niche": "Lifestyle",
+    "followers_start": 64085,
+    "monthly_follower_growth_pct": 9.11,
+    "avg_engagement_rate": 0.0632,
+    "post_count": 8,
+    "posts": [
+      {
+        "post_id": "influencer_002_post_1",
+        "caption": "Check out my latest lifestyle post! #photography #fashion #travel #life",
+        "hashtags": [
+          "#photography",
+          "#fashion",
+          "#travel",
+          "#life"
+        ],
+        "likes": 5271,
+        "comments": 176,
+        "shares": 64,
+        "views": 24744,
+        "timestamp": "2023-01-04T09:06:31",
+        "followers_at_post": 64085,
+        "engagement_rate": 0.086
+      },
+      {
+        "post_id": "influencer_002_post_2",
+        "caption": "Check out my latest lifestyle post! #foodie #photography",
+        "hashtags": [
+          "#foodie",
+          "#photography"
+        ],
+        "likes": 3383,
+        "comments": 91,
+        "shares": 44,
+        "views": 6577,
+        "timestamp": "2023-01-20T09:35:30",
+        "followers_at_post": 64085,
+        "engagement_rate": 0.0549
+      },
+      {
+        "post_id": "influencer_002_post_3",
+        "caption": "Check out my latest lifestyle post! #foodie #style #travel #fashion",
+        "hashtags": [
+          "#foodie",
+          "#style",
+          "#travel",
+          "#fashion"
+        ],
+        "likes": 5531,
+        "comments": 139,
+        "shares": 75,
+        "views": 8369,
+        "timestamp": "2023-02-25T00:34:44",
+        "followers_at_post": 69923,
+        "engagement_rate": 0.0822
+      },
+      {
+        "post_id": "influencer_002_post_4",
+        "caption": "Check out my latest lifestyle post! #foodie #photography",
+        "hashtags": [
+          "#foodie",
+          "#photography"
+        ],
+        "likes": 2820,
+        "comments": 91,
+        "shares": 24,
+        "views": 9524,
+        "timestamp": "2023-05-26T00:57:24",
+        "followers_at_post": 90831,
+        "engagement_rate": 0.0323
+      },
+      {
+        "post_id": "influencer_002_post_5",
+        "caption": "Check out my latest lifestyle post! #fashion #style #travel",
+        "hashtags": [
+          "#fashion",
+          "#style",
+          "#travel"
+        ],
+        "likes": 4854,
+        "comments": 235,
+        "shares": 61,
+        "views": 11195,
+        "timestamp": "2023-06-08T01:57:07",
+        "followers_at_post": 99106,
+        "engagement_rate": 0.052
+      },
+      {
+        "post_id": "influencer_002_post_6",
+        "caption": "Check out my latest lifestyle post! #fashion #foodie #style #photography",
+        "hashtags": [
+          "#fashion",
+          "#foodie",
+          "#style",
+          "#photography"
+        ],
+        "likes": 11935,
+        "comments": 307,
+        "shares": 154,
+        "views": 45961,
+        "timestamp": "2023-11-04T22:36:14",
+        "followers_at_post": 153267,
+        "engagement_rate": 0.0809
+      },
+      {
+        "post_id": "influencer_002_post_7",
+        "caption": "Check out my latest lifestyle post! #fashion #style #photography",
+        "hashtags": [
+          "#fashion",
+          "#style",
+          "#photography"
+        ],
+        "likes": 6206,
+        "comments": 94,
+        "shares": 50,
+        "views": 26038,
+        "timestamp": "2023-12-09T03:13:34",
+        "followers_at_post": 167232,
+        "engagement_rate": 0.038
+      },
+      {
+        "post_id": "influencer_002_post_8",
+        "caption": "Check out my latest lifestyle post! #travel #fashion #style #foodie",
+        "hashtags": [
+          "#travel",
+          "#fashion",
+          "#style",
+          "#foodie"
+        ],
+        "likes": 19429,
+        "comments": 849,
+        "shares": 156,
+        "views": 48566,
+        "timestamp": "2024-05-21T11:51:07",
+        "followers_at_post": 258623,
+        "engagement_rate": 0.079
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_003",
+    "username": "fitness_star_3",
+    "niche": "Fitness",
+    "followers_start": 51051,
+    "monthly_follower_growth_pct": 5.19,
+    "avg_engagement_rate": 0.0576,
+    "post_count": 8,
+    "posts": [
+      {
+        "post_id": "influencer_003_post_1",
+        "caption": "Check out my latest fitness post! #workout #fitlife #fitness",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#fitness"
+        ],
+        "likes": 740,
+        "comments": 7,
+        "shares": 8,
+        "views": 3158,
+        "timestamp": "2023-07-30T19:42:19",
+        "followers_at_post": 69155,
+        "engagement_rate": 0.0109
+      },
+      {
+        "post_id": "influencer_003_post_2",
+        "caption": "Check out my latest fitness post! #workout #gym #fitlife #motivation",
+        "hashtags": [
+          "#workout",
+          "#gym",
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 1857,
+        "comments": 79,
+        "shares": 15,
+        "views": 4956,
+        "timestamp": "2023-08-18T05:15:59",
+        "followers_at_post": 72744,
+        "engagement_rate": 0.0268
+      },
+      {
+        "post_id": "influencer_003_post_3",
+        "caption": "Check out my latest fitness post! #health #workout #motivation #fitlife",
+        "hashtags": [
+          "#health",
+          "#workout",
+          "#motivation",
+          "#fitlife"
+        ],
+        "likes": 6203,
+        "comments": 235,
+        "shares": 62,
+        "views": 30628,
+        "timestamp": "2023-08-29T18:42:35",
+        "followers_at_post": 72744,
+        "engagement_rate": 0.0894
+      },
+      {
+        "post_id": "influencer_003_post_4",
+        "caption": "Check out my latest fitness post! #fitness #health #gym",
+        "hashtags": [
+          "#fitness",
+          "#health",
+          "#gym"
+        ],
+        "likes": 3044,
+        "comments": 43,
+        "shares": 21,
+        "views": 7980,
+        "timestamp": "2023-09-11T13:56:34",
+        "followers_at_post": 76519,
+        "engagement_rate": 0.0406
+      },
+      {
+        "post_id": "influencer_003_post_5",
+        "caption": "Check out my latest fitness post! #fitlife #health #gym",
+        "hashtags": [
+          "#fitlife",
+          "#health",
+          "#gym"
+        ],
+        "likes": 7416,
+        "comments": 283,
+        "shares": 130,
+        "views": 22270,
+        "timestamp": "2024-01-21T07:03:19",
+        "followers_at_post": 93681,
+        "engagement_rate": 0.0836
+      },
+      {
+        "post_id": "influencer_003_post_6",
+        "caption": "Check out my latest fitness post! #fitlife #motivation",
+        "hashtags": [
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 4820,
+        "comments": 77,
+        "shares": 30,
+        "views": 21945,
+        "timestamp": "2024-01-24T10:10:17",
+        "followers_at_post": 93681,
+        "engagement_rate": 0.0526
+      },
+      {
+        "post_id": "influencer_003_post_7",
+        "caption": "Check out my latest fitness post! #health #gym #workout #motivation",
+        "hashtags": [
+          "#health",
+          "#gym",
+          "#workout",
+          "#motivation"
+        ],
+        "likes": 10491,
+        "comments": 451,
+        "shares": 107,
+        "views": 30757,
+        "timestamp": "2024-05-01T23:14:12",
+        "followers_at_post": 114692,
+        "engagement_rate": 0.0963
+      },
+      {
+        "post_id": "influencer_003_post_8",
+        "caption": "Check out my latest fitness post! #fitlife #workout #gym",
+        "hashtags": [
+          "#fitlife",
+          "#workout",
+          "#gym"
+        ],
+        "likes": 6929,
+        "comments": 260,
+        "shares": 104,
+        "views": 15864,
+        "timestamp": "2024-06-12T12:42:26",
+        "followers_at_post": 120644,
+        "engagement_rate": 0.0605
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_004",
+    "username": "fitness_star_4",
+    "niche": "Fitness",
+    "followers_start": 26319,
+    "monthly_follower_growth_pct": 0.82,
+    "avg_engagement_rate": 0.0494,
+    "post_count": 12,
+    "posts": [
+      {
+        "post_id": "influencer_004_post_1",
+        "caption": "Check out my latest fitness post! #fitness #fitlife",
+        "hashtags": [
+          "#fitness",
+          "#fitlife"
+        ],
+        "likes": 454,
+        "comments": 8,
+        "shares": 2,
+        "views": 1474,
+        "timestamp": "2023-01-12T15:16:33",
+        "followers_at_post": 26319,
+        "engagement_rate": 0.0176
+      },
+      {
+        "post_id": "influencer_004_post_2",
+        "caption": "Check out my latest fitness post! #gym #health #fitlife #workout",
+        "hashtags": [
+          "#gym",
+          "#health",
+          "#fitlife",
+          "#workout"
+        ],
+        "likes": 1041,
+        "comments": 34,
+        "shares": 15,
+        "views": 4219,
+        "timestamp": "2023-02-11T02:19:04",
+        "followers_at_post": 26535,
+        "engagement_rate": 0.0411
+      },
+      {
+        "post_id": "influencer_004_post_3",
+        "caption": "Check out my latest fitness post! #motivation #fitlife",
+        "hashtags": [
+          "#motivation",
+          "#fitlife"
+        ],
+        "likes": 298,
+        "comments": 14,
+        "shares": 1,
+        "views": 674,
+        "timestamp": "2023-02-25T11:17:54",
+        "followers_at_post": 26535,
+        "engagement_rate": 0.0118
+      },
+      {
+        "post_id": "influencer_004_post_4",
+        "caption": "Check out my latest fitness post! #workout #fitlife",
+        "hashtags": [
+          "#workout",
+          "#fitlife"
+        ],
+        "likes": 2002,
+        "comments": 80,
+        "shares": 11,
+        "views": 8516,
+        "timestamp": "2023-05-04T20:52:50",
+        "followers_at_post": 27197,
+        "engagement_rate": 0.077
+      },
+      {
+        "post_id": "influencer_004_post_5",
+        "caption": "Check out my latest fitness post! #workout #fitness #health #fitlife",
+        "hashtags": [
+          "#workout",
+          "#fitness",
+          "#health",
+          "#fitlife"
+        ],
+        "likes": 2193,
+        "comments": 98,
+        "shares": 41,
+        "views": 9617,
+        "timestamp": "2023-06-21T00:02:14",
+        "followers_at_post": 27421,
+        "engagement_rate": 0.085
+      },
+      {
+        "post_id": "influencer_004_post_6",
+        "caption": "Check out my latest fitness post! #motivation #gym",
+        "hashtags": [
+          "#motivation",
+          "#gym"
+        ],
+        "likes": 2608,
+        "comments": 83,
+        "shares": 22,
+        "views": 4650,
+        "timestamp": "2023-08-06T10:35:03",
+        "followers_at_post": 27875,
+        "engagement_rate": 0.0973
+      },
+      {
+        "post_id": "influencer_004_post_7",
+        "caption": "Check out my latest fitness post! #workout #fitlife #health",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#health"
+        ],
+        "likes": 326,
+        "comments": 10,
+        "shares": 2,
+        "views": 1598,
+        "timestamp": "2023-08-23T18:54:16",
+        "followers_at_post": 27875,
+        "engagement_rate": 0.0121
+      },
+      {
+        "post_id": "influencer_004_post_8",
+        "caption": "Check out my latest fitness post! #fitlife #motivation #fitness",
+        "hashtags": [
+          "#fitlife",
+          "#motivation",
+          "#fitness"
+        ],
+        "likes": 1142,
+        "comments": 24,
+        "shares": 14,
+        "views": 2968,
+        "timestamp": "2023-09-10T05:23:58",
+        "followers_at_post": 28104,
+        "engagement_rate": 0.042
+      },
+      {
+        "post_id": "influencer_004_post_9",
+        "caption": "Check out my latest fitness post! #health #gym #fitness",
+        "hashtags": [
+          "#health",
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 1667,
+        "comments": 40,
+        "shares": 22,
+        "views": 6232,
+        "timestamp": "2023-10-12T12:36:21",
+        "followers_at_post": 28336,
+        "engagement_rate": 0.061
+      },
+      {
+        "post_id": "influencer_004_post_10",
+        "caption": "Check out my latest fitness post! #fitness #fitlife #health",
+        "hashtags": [
+          "#fitness",
+          "#fitlife",
+          "#health"
+        ],
+        "likes": 1175,
+        "comments": 33,
+        "shares": 19,
+        "views": 4343,
+        "timestamp": "2023-12-25T07:07:52",
+        "followers_at_post": 28805,
+        "engagement_rate": 0.0426
+      },
+      {
+        "post_id": "influencer_004_post_11",
+        "caption": "Check out my latest fitness post! #fitlife #health #workout #motivation",
+        "hashtags": [
+          "#fitlife",
+          "#health",
+          "#workout",
+          "#motivation"
+        ],
+        "likes": 880,
+        "comments": 9,
+        "shares": 5,
+        "views": 4206,
+        "timestamp": "2024-01-16T00:12:05",
+        "followers_at_post": 29042,
+        "engagement_rate": 0.0308
+      },
+      {
+        "post_id": "influencer_004_post_12",
+        "caption": "Check out my latest fitness post! #workout #gym",
+        "hashtags": [
+          "#workout",
+          "#gym"
+        ],
+        "likes": 2120,
+        "comments": 36,
+        "shares": 39,
+        "views": 9419,
+        "timestamp": "2024-03-01T17:28:35",
+        "followers_at_post": 29523,
+        "engagement_rate": 0.0743
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_005",
+    "username": "entertainment_star_5",
+    "niche": "Entertainment",
+    "followers_start": 69723,
+    "monthly_follower_growth_pct": 2.53,
+    "avg_engagement_rate": 0.0553,
+    "post_count": 14,
+    "posts": [
+      {
+        "post_id": "influencer_005_post_1",
+        "caption": "Check out my latest entertainment post! #hollywood #popculture #music #fun",
+        "hashtags": [
+          "#hollywood",
+          "#popculture",
+          "#music",
+          "#fun"
+        ],
+        "likes": 3646,
+        "comments": 41,
+        "shares": 71,
+        "views": 17133,
+        "timestamp": "2023-01-16T06:38:35",
+        "followers_at_post": 69723,
+        "engagement_rate": 0.0539
+      },
+      {
+        "post_id": "influencer_005_post_2",
+        "caption": "Check out my latest entertainment post! #music #celebrity #popculture",
+        "hashtags": [
+          "#music",
+          "#celebrity",
+          "#popculture"
+        ],
+        "likes": 2923,
+        "comments": 130,
+        "shares": 21,
+        "views": 13713,
+        "timestamp": "2023-02-16T15:36:12",
+        "followers_at_post": 71487,
+        "engagement_rate": 0.043
+      },
+      {
+        "post_id": "influencer_005_post_3",
+        "caption": "Check out my latest entertainment post! #movie #music #celebrity",
+        "hashtags": [
+          "#movie",
+          "#music",
+          "#celebrity"
+        ],
+        "likes": 7227,
+        "comments": 105,
+        "shares": 80,
+        "views": 13258,
+        "timestamp": "2023-04-11T22:38:01",
+        "followers_at_post": 75151,
+        "engagement_rate": 0.0986
+      },
+      {
+        "post_id": "influencer_005_post_4",
+        "caption": "Check out my latest entertainment post! #music #movie #popculture",
+        "hashtags": [
+          "#music",
+          "#movie",
+          "#popculture"
+        ],
+        "likes": 5845,
+        "comments": 205,
+        "shares": 49,
+        "views": 13862,
+        "timestamp": "2023-04-18T22:03:53",
+        "followers_at_post": 75151,
+        "engagement_rate": 0.0812
+      },
+      {
+        "post_id": "influencer_005_post_5",
+        "caption": "Check out my latest entertainment post! #hollywood #music #celebrity #movie",
+        "hashtags": [
+          "#hollywood",
+          "#music",
+          "#celebrity",
+          "#movie"
+        ],
+        "likes": 1247,
+        "comments": 18,
+        "shares": 6,
+        "views": 4352,
+        "timestamp": "2023-07-06T11:35:41",
+        "followers_at_post": 81002,
+        "engagement_rate": 0.0157
+      },
+      {
+        "post_id": "influencer_005_post_6",
+        "caption": "Check out my latest entertainment post! #fun #music",
+        "hashtags": [
+          "#fun",
+          "#music"
+        ],
+        "likes": 2336,
+        "comments": 61,
+        "shares": 44,
+        "views": 3620,
+        "timestamp": "2023-07-17T04:04:57",
+        "followers_at_post": 81002,
+        "engagement_rate": 0.0301
+      },
+      {
+        "post_id": "influencer_005_post_7",
+        "caption": "Check out my latest entertainment post! #celebrity #hollywood",
+        "hashtags": [
+          "#celebrity",
+          "#hollywood"
+        ],
+        "likes": 4577,
+        "comments": 69,
+        "shares": 69,
+        "views": 21920,
+        "timestamp": "2023-07-22T23:39:34",
+        "followers_at_post": 81002,
+        "engagement_rate": 0.0582
+      },
+      {
+        "post_id": "influencer_005_post_8",
+        "caption": "Check out my latest entertainment post! #fun #movie #music #celebrity",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#music",
+          "#celebrity"
+        ],
+        "likes": 6278,
+        "comments": 91,
+        "shares": 77,
+        "views": 18105,
+        "timestamp": "2023-09-11T08:00:33",
+        "followers_at_post": 85154,
+        "engagement_rate": 0.0757
+      },
+      {
+        "post_id": "influencer_005_post_9",
+        "caption": "Check out my latest entertainment post! #music #hollywood #fun",
+        "hashtags": [
+          "#music",
+          "#hollywood",
+          "#fun"
+        ],
+        "likes": 3885,
+        "comments": 137,
+        "shares": 27,
+        "views": 15248,
+        "timestamp": "2023-12-23T19:50:05",
+        "followers_at_post": 91784,
+        "engagement_rate": 0.0441
+      },
+      {
+        "post_id": "influencer_005_post_10",
+        "caption": "Check out my latest entertainment post! #music #popculture #fun #movie",
+        "hashtags": [
+          "#music",
+          "#popculture",
+          "#fun",
+          "#movie"
+        ],
+        "likes": 7445,
+        "comments": 128,
+        "shares": 110,
+        "views": 25733,
+        "timestamp": "2024-01-19T16:33:44",
+        "followers_at_post": 94107,
+        "engagement_rate": 0.0816
+      },
+      {
+        "post_id": "influencer_005_post_11",
+        "caption": "Check out my latest entertainment post! #music #hollywood #movie #fun",
+        "hashtags": [
+          "#music",
+          "#hollywood",
+          "#movie",
+          "#fun"
+        ],
+        "likes": 5158,
+        "comments": 200,
+        "shares": 58,
+        "views": 12148,
+        "timestamp": "2024-01-25T14:44:17",
+        "followers_at_post": 94107,
+        "engagement_rate": 0.0576
+      },
+      {
+        "post_id": "influencer_005_post_12",
+        "caption": "Check out my latest entertainment post! #music #movie",
+        "hashtags": [
+          "#music",
+          "#movie"
+        ],
+        "likes": 3331,
+        "comments": 112,
+        "shares": 55,
+        "views": 12462,
+        "timestamp": "2024-01-28T06:32:41",
+        "followers_at_post": 94107,
+        "engagement_rate": 0.0372
+      },
+      {
+        "post_id": "influencer_005_post_13",
+        "caption": "Check out my latest entertainment post! #music #popculture #celebrity #hollywood",
+        "hashtags": [
+          "#music",
+          "#popculture",
+          "#celebrity",
+          "#hollywood"
+        ],
+        "likes": 3559,
+        "comments": 138,
+        "shares": 41,
+        "views": 12381,
+        "timestamp": "2024-03-11T22:27:06",
+        "followers_at_post": 98931,
+        "engagement_rate": 0.0378
+      },
+      {
+        "post_id": "influencer_005_post_14",
+        "caption": "Check out my latest entertainment post! #fun #celebrity #music",
+        "hashtags": [
+          "#fun",
+          "#celebrity",
+          "#music"
+        ],
+        "likes": 5755,
+        "comments": 269,
+        "shares": 48,
+        "views": 16788,
+        "timestamp": "2024-04-10T07:26:39",
+        "followers_at_post": 101434,
+        "engagement_rate": 0.0599
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_006",
+    "username": "fitness_star_6",
+    "niche": "Fitness",
+    "followers_start": 57710,
+    "monthly_follower_growth_pct": 7.01,
+    "avg_engagement_rate": 0.0612,
+    "post_count": 12,
+    "posts": [
+      {
+        "post_id": "influencer_006_post_1",
+        "caption": "Check out my latest fitness post! #workout #motivation #gym",
+        "hashtags": [
+          "#workout",
+          "#motivation",
+          "#gym"
+        ],
+        "likes": 3745,
+        "comments": 163,
+        "shares": 33,
+        "views": 8893,
+        "timestamp": "2023-01-02T09:40:45",
+        "followers_at_post": 57710,
+        "engagement_rate": 0.0683
+      },
+      {
+        "post_id": "influencer_006_post_2",
+        "caption": "Check out my latest fitness post! #workout #fitlife #motivation",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 2520,
+        "comments": 53,
+        "shares": 23,
+        "views": 9036,
+        "timestamp": "2023-03-21T04:34:40",
+        "followers_at_post": 66083,
+        "engagement_rate": 0.0393
+      },
+      {
+        "post_id": "influencer_006_post_3",
+        "caption": "Check out my latest fitness post! #motivation #fitness #gym",
+        "hashtags": [
+          "#motivation",
+          "#fitness",
+          "#gym"
+        ],
+        "likes": 4572,
+        "comments": 204,
+        "shares": 26,
+        "views": 14195,
+        "timestamp": "2023-03-26T02:05:47",
+        "followers_at_post": 66083,
+        "engagement_rate": 0.0727
+      },
+      {
+        "post_id": "influencer_006_post_4",
+        "caption": "Check out my latest fitness post! #health #fitlife",
+        "hashtags": [
+          "#health",
+          "#fitlife"
+        ],
+        "likes": 7298,
+        "comments": 349,
+        "shares": 145,
+        "views": 34899,
+        "timestamp": "2023-08-28T00:42:43",
+        "followers_at_post": 92726,
+        "engagement_rate": 0.084
+      },
+      {
+        "post_id": "influencer_006_post_5",
+        "caption": "Check out my latest fitness post! #workout #fitlife #motivation #health",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#motivation",
+          "#health"
+        ],
+        "likes": 2837,
+        "comments": 67,
+        "shares": 24,
+        "views": 8889,
+        "timestamp": "2023-09-07T20:42:00",
+        "followers_at_post": 99225,
+        "engagement_rate": 0.0295
+      },
+      {
+        "post_id": "influencer_006_post_6",
+        "caption": "Check out my latest fitness post! #fitness #workout #gym #motivation",
+        "hashtags": [
+          "#fitness",
+          "#workout",
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 5168,
+        "comments": 199,
+        "shares": 46,
+        "views": 8647,
+        "timestamp": "2023-09-23T20:53:59",
+        "followers_at_post": 99225,
+        "engagement_rate": 0.0546
+      },
+      {
+        "post_id": "influencer_006_post_7",
+        "caption": "Check out my latest fitness post! #fitlife #health #gym",
+        "hashtags": [
+          "#fitlife",
+          "#health",
+          "#gym"
+        ],
+        "likes": 3879,
+        "comments": 148,
+        "shares": 46,
+        "views": 7682,
+        "timestamp": "2023-10-26T15:25:25",
+        "followers_at_post": 106180,
+        "engagement_rate": 0.0384
+      },
+      {
+        "post_id": "influencer_006_post_8",
+        "caption": "Check out my latest fitness post! #gym #motivation",
+        "hashtags": [
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 11499,
+        "comments": 177,
+        "shares": 156,
+        "views": 29749,
+        "timestamp": "2023-12-08T05:35:19",
+        "followers_at_post": 121587,
+        "engagement_rate": 0.0973
+      },
+      {
+        "post_id": "influencer_006_post_9",
+        "caption": "Check out my latest fitness post! #fitlife #gym",
+        "hashtags": [
+          "#fitlife",
+          "#gym"
+        ],
+        "likes": 7507,
+        "comments": 340,
+        "shares": 88,
+        "views": 29472,
+        "timestamp": "2023-12-17T10:24:28",
+        "followers_at_post": 121587,
+        "engagement_rate": 0.0653
+      },
+      {
+        "post_id": "influencer_006_post_10",
+        "caption": "Check out my latest fitness post! #motivation #fitness #workout #gym",
+        "hashtags": [
+          "#motivation",
+          "#fitness",
+          "#workout",
+          "#gym"
+        ],
+        "likes": 2855,
+        "comments": 120,
+        "shares": 52,
+        "views": 10717,
+        "timestamp": "2024-04-22T09:41:36",
+        "followers_at_post": 159432,
+        "engagement_rate": 0.019
+      },
+      {
+        "post_id": "influencer_006_post_11",
+        "caption": "Check out my latest fitness post! #workout #fitlife",
+        "hashtags": [
+          "#workout",
+          "#fitlife"
+        ],
+        "likes": 14720,
+        "comments": 577,
+        "shares": 237,
+        "views": 66444,
+        "timestamp": "2024-05-09T23:47:28",
+        "followers_at_post": 170607,
+        "engagement_rate": 0.0911
+      },
+      {
+        "post_id": "influencer_006_post_12",
+        "caption": "Check out my latest fitness post! #gym #fitness",
+        "hashtags": [
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 12030,
+        "comments": 551,
+        "shares": 156,
+        "views": 45799,
+        "timestamp": "2024-05-23T02:52:09",
+        "followers_at_post": 170607,
+        "engagement_rate": 0.0747
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_007",
+    "username": "lifestyle_star_7",
+    "niche": "Lifestyle",
+    "followers_start": 15228,
+    "monthly_follower_growth_pct": 3.8,
+    "avg_engagement_rate": 0.0634,
+    "post_count": 14,
+    "posts": [
+      {
+        "post_id": "influencer_007_post_1",
+        "caption": "Check out my latest lifestyle post! #foodie #fashion",
+        "hashtags": [
+          "#foodie",
+          "#fashion"
+        ],
+        "likes": 838,
+        "comments": 12,
+        "shares": 13,
+        "views": 2719,
+        "timestamp": "2023-01-05T09:17:42",
+        "followers_at_post": 15228,
+        "engagement_rate": 0.0567
+      },
+      {
+        "post_id": "influencer_007_post_2",
+        "caption": "Check out my latest lifestyle post! #foodie #travel",
+        "hashtags": [
+          "#foodie",
+          "#travel"
+        ],
+        "likes": 1014,
+        "comments": 27,
+        "shares": 8,
+        "views": 4196,
+        "timestamp": "2023-01-23T04:49:00",
+        "followers_at_post": 15228,
+        "engagement_rate": 0.0689
+      },
+      {
+        "post_id": "influencer_007_post_3",
+        "caption": "Check out my latest lifestyle post! #foodie #fashion #style",
+        "hashtags": [
+          "#foodie",
+          "#fashion",
+          "#style"
+        ],
+        "likes": 1441,
+        "comments": 57,
+        "shares": 14,
+        "views": 4994,
+        "timestamp": "2023-02-21T07:51:56",
+        "followers_at_post": 15806,
+        "engagement_rate": 0.0957
+      },
+      {
+        "post_id": "influencer_007_post_4",
+        "caption": "Check out my latest lifestyle post! #photography #style #life #foodie",
+        "hashtags": [
+          "#photography",
+          "#style",
+          "#life",
+          "#foodie"
+        ],
+        "likes": 1127,
+        "comments": 40,
+        "shares": 19,
+        "views": 5388,
+        "timestamp": "2023-03-18T01:19:54",
+        "followers_at_post": 16407,
+        "engagement_rate": 0.0723
+      },
+      {
+        "post_id": "influencer_007_post_5",
+        "caption": "Check out my latest lifestyle post! #style #life #photography",
+        "hashtags": [
+          "#style",
+          "#life",
+          "#photography"
+        ],
+        "likes": 955,
+        "comments": 10,
+        "shares": 17,
+        "views": 4732,
+        "timestamp": "2023-05-21T20:12:10",
+        "followers_at_post": 17679,
+        "engagement_rate": 0.0555
+      },
+      {
+        "post_id": "influencer_007_post_6",
+        "caption": "Check out my latest lifestyle post! #style #photography",
+        "hashtags": [
+          "#style",
+          "#photography"
+        ],
+        "likes": 659,
+        "comments": 12,
+        "shares": 5,
+        "views": 2002,
+        "timestamp": "2023-06-09T11:12:41",
+        "followers_at_post": 18351,
+        "engagement_rate": 0.0368
+      },
+      {
+        "post_id": "influencer_007_post_7",
+        "caption": "Check out my latest lifestyle post! #travel #fashion #life #photography",
+        "hashtags": [
+          "#travel",
+          "#fashion",
+          "#life",
+          "#photography"
+        ],
+        "likes": 1541,
+        "comments": 41,
+        "shares": 24,
+        "views": 7043,
+        "timestamp": "2023-06-15T20:24:50",
+        "followers_at_post": 18351,
+        "engagement_rate": 0.0875
+      },
+      {
+        "post_id": "influencer_007_post_8",
+        "caption": "Check out my latest lifestyle post! #travel #foodie",
+        "hashtags": [
+          "#travel",
+          "#foodie"
+        ],
+        "likes": 935,
+        "comments": 44,
+        "shares": 10,
+        "views": 2370,
+        "timestamp": "2023-07-24T10:21:54",
+        "followers_at_post": 19048,
+        "engagement_rate": 0.0519
+      },
+      {
+        "post_id": "influencer_007_post_9",
+        "caption": "Check out my latest lifestyle post! #photography #style",
+        "hashtags": [
+          "#photography",
+          "#style"
+        ],
+        "likes": 376,
+        "comments": 15,
+        "shares": 6,
+        "views": 1049,
+        "timestamp": "2023-08-12T01:08:53",
+        "followers_at_post": 19773,
+        "engagement_rate": 0.0201
+      },
+      {
+        "post_id": "influencer_007_post_10",
+        "caption": "Check out my latest lifestyle post! #fashion #foodie #photography",
+        "hashtags": [
+          "#fashion",
+          "#foodie",
+          "#photography"
+        ],
+        "likes": 2054,
+        "comments": 48,
+        "shares": 27,
+        "views": 7644,
+        "timestamp": "2023-12-14T07:29:26",
+        "followers_at_post": 22955,
+        "engagement_rate": 0.0927
+      },
+      {
+        "post_id": "influencer_007_post_11",
+        "caption": "Check out my latest lifestyle post! #style #fashion #travel",
+        "hashtags": [
+          "#style",
+          "#fashion",
+          "#travel"
+        ],
+        "likes": 1051,
+        "comments": 24,
+        "shares": 17,
+        "views": 5172,
+        "timestamp": "2024-02-26T00:11:21",
+        "followers_at_post": 24734,
+        "engagement_rate": 0.0441
+      },
+      {
+        "post_id": "influencer_007_post_12",
+        "caption": "Check out my latest lifestyle post! #foodie #style",
+        "hashtags": [
+          "#foodie",
+          "#style"
+        ],
+        "likes": 1079,
+        "comments": 10,
+        "shares": 21,
+        "views": 2096,
+        "timestamp": "2024-03-09T03:34:12",
+        "followers_at_post": 25674,
+        "engagement_rate": 0.0432
+      },
+      {
+        "post_id": "influencer_007_post_13",
+        "caption": "Check out my latest lifestyle post! #foodie #travel #fashion #style",
+        "hashtags": [
+          "#foodie",
+          "#travel",
+          "#fashion",
+          "#style"
+        ],
+        "likes": 2508,
+        "comments": 104,
+        "shares": 45,
+        "views": 11319,
+        "timestamp": "2024-03-13T16:48:20",
+        "followers_at_post": 25674,
+        "engagement_rate": 0.1035
+      },
+      {
+        "post_id": "influencer_007_post_14",
+        "caption": "Check out my latest lifestyle post! #photography #foodie #travel",
+        "hashtags": [
+          "#photography",
+          "#foodie",
+          "#travel"
+        ],
+        "likes": 1416,
+        "comments": 59,
+        "shares": 15,
+        "views": 6802,
+        "timestamp": "2024-03-31T20:23:55",
+        "followers_at_post": 25674,
+        "engagement_rate": 0.058
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_008",
+    "username": "entertainment_star_8",
+    "niche": "Entertainment",
+    "followers_start": 6351,
+    "monthly_follower_growth_pct": 2.86,
+    "avg_engagement_rate": 0.0472,
+    "post_count": 11,
+    "posts": [
+      {
+        "post_id": "influencer_008_post_1",
+        "caption": "Check out my latest entertainment post! #popculture #fun",
+        "hashtags": [
+          "#popculture",
+          "#fun"
+        ],
+        "likes": 161,
+        "comments": 8,
+        "shares": 2,
+        "views": 496,
+        "timestamp": "2023-01-19T09:55:01",
+        "followers_at_post": 6351,
+        "engagement_rate": 0.0269
+      },
+      {
+        "post_id": "influencer_008_post_2",
+        "caption": "Check out my latest entertainment post! #hollywood #celebrity #popculture #music",
+        "hashtags": [
+          "#hollywood",
+          "#celebrity",
+          "#popculture",
+          "#music"
+        ],
+        "likes": 572,
+        "comments": 13,
+        "shares": 10,
+        "views": 919,
+        "timestamp": "2023-01-28T03:58:47",
+        "followers_at_post": 6351,
+        "engagement_rate": 0.0937
+      },
+      {
+        "post_id": "influencer_008_post_3",
+        "caption": "Check out my latest entertainment post! #music #popculture #fun",
+        "hashtags": [
+          "#music",
+          "#popculture",
+          "#fun"
+        ],
+        "likes": 243,
+        "comments": 5,
+        "shares": 1,
+        "views": 1118,
+        "timestamp": "2023-02-08T15:38:01",
+        "followers_at_post": 6532,
+        "engagement_rate": 0.0381
+      },
+      {
+        "post_id": "influencer_008_post_4",
+        "caption": "Check out my latest entertainment post! #fun #movie #music #celebrity",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#music",
+          "#celebrity"
+        ],
+        "likes": 172,
+        "comments": 1,
+        "shares": 1,
+        "views": 313,
+        "timestamp": "2023-05-09T11:20:59",
+        "followers_at_post": 7109,
+        "engagement_rate": 0.0245
+      },
+      {
+        "post_id": "influencer_008_post_5",
+        "caption": "Check out my latest entertainment post! #fun #hollywood #music",
+        "hashtags": [
+          "#fun",
+          "#hollywood",
+          "#music"
+        ],
+        "likes": 324,
+        "comments": 12,
+        "shares": 4,
+        "views": 1143,
+        "timestamp": "2023-07-28T20:42:35",
+        "followers_at_post": 7522,
+        "engagement_rate": 0.0452
+      },
+      {
+        "post_id": "influencer_008_post_6",
+        "caption": "Check out my latest entertainment post! #celebrity #movie",
+        "hashtags": [
+          "#celebrity",
+          "#movie"
+        ],
+        "likes": 114,
+        "comments": 1,
+        "shares": 2,
+        "views": 428,
+        "timestamp": "2023-09-30T19:09:47",
+        "followers_at_post": 7959,
+        "engagement_rate": 0.0147
+      },
+      {
+        "post_id": "influencer_008_post_7",
+        "caption": "Check out my latest entertainment post! #popculture #hollywood #celebrity",
+        "hashtags": [
+          "#popculture",
+          "#hollywood",
+          "#celebrity"
+        ],
+        "likes": 596,
+        "comments": 16,
+        "shares": 2,
+        "views": 1156,
+        "timestamp": "2023-10-08T11:15:42",
+        "followers_at_post": 8186,
+        "engagement_rate": 0.075
+      },
+      {
+        "post_id": "influencer_008_post_8",
+        "caption": "Check out my latest entertainment post! #movie #fun",
+        "hashtags": [
+          "#movie",
+          "#fun"
+        ],
+        "likes": 466,
+        "comments": 11,
+        "shares": 9,
+        "views": 2270,
+        "timestamp": "2024-01-01T11:29:27",
+        "followers_at_post": 8910,
+        "engagement_rate": 0.0545
+      },
+      {
+        "post_id": "influencer_008_post_9",
+        "caption": "Check out my latest entertainment post! #popculture #music #hollywood #celebrity",
+        "hashtags": [
+          "#popculture",
+          "#music",
+          "#hollywood",
+          "#celebrity"
+        ],
+        "likes": 181,
+        "comments": 9,
+        "shares": 0,
+        "views": 285,
+        "timestamp": "2024-02-11T11:54:46",
+        "followers_at_post": 9165,
+        "engagement_rate": 0.0207
+      },
+      {
+        "post_id": "influencer_008_post_10",
+        "caption": "Check out my latest entertainment post! #movie #music #hollywood",
+        "hashtags": [
+          "#movie",
+          "#music",
+          "#hollywood"
+        ],
+        "likes": 562,
+        "comments": 12,
+        "shares": 8,
+        "views": 2306,
+        "timestamp": "2024-04-06T10:32:13",
+        "followers_at_post": 9697,
+        "engagement_rate": 0.06
+      },
+      {
+        "post_id": "influencer_008_post_11",
+        "caption": "Check out my latest entertainment post! #fun #popculture",
+        "hashtags": [
+          "#fun",
+          "#popculture"
+        ],
+        "likes": 641,
+        "comments": 9,
+        "shares": 3,
+        "views": 3174,
+        "timestamp": "2024-05-30T16:28:59",
+        "followers_at_post": 9974,
+        "engagement_rate": 0.0655
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_009",
+    "username": "fitness_star_9",
+    "niche": "Fitness",
+    "followers_start": 24882,
+    "monthly_follower_growth_pct": 1.89,
+    "avg_engagement_rate": 0.0629,
+    "post_count": 8,
+    "posts": [
+      {
+        "post_id": "influencer_009_post_1",
+        "caption": "Check out my latest fitness post! #motivation #fitness #workout",
+        "hashtags": [
+          "#motivation",
+          "#fitness",
+          "#workout"
+        ],
+        "likes": 1022,
+        "comments": 28,
+        "shares": 12,
+        "views": 2147,
+        "timestamp": "2023-01-11T02:45:17",
+        "followers_at_post": 24882,
+        "engagement_rate": 0.0427
+      },
+      {
+        "post_id": "influencer_009_post_2",
+        "caption": "Check out my latest fitness post! #gym #fitlife",
+        "hashtags": [
+          "#gym",
+          "#fitlife"
+        ],
+        "likes": 267,
+        "comments": 7,
+        "shares": 1,
+        "views": 1196,
+        "timestamp": "2023-01-23T01:58:01",
+        "followers_at_post": 24882,
+        "engagement_rate": 0.0111
+      },
+      {
+        "post_id": "influencer_009_post_3",
+        "caption": "Check out my latest fitness post! #fitness #fitlife #gym #workout",
+        "hashtags": [
+          "#fitness",
+          "#fitlife",
+          "#gym",
+          "#workout"
+        ],
+        "likes": 1681,
+        "comments": 58,
+        "shares": 18,
+        "views": 2578,
+        "timestamp": "2023-01-28T14:30:43",
+        "followers_at_post": 24882,
+        "engagement_rate": 0.0706
+      },
+      {
+        "post_id": "influencer_009_post_4",
+        "caption": "Check out my latest fitness post! #motivation #fitness #health",
+        "hashtags": [
+          "#motivation",
+          "#fitness",
+          "#health"
+        ],
+        "likes": 922,
+        "comments": 16,
+        "shares": 6,
+        "views": 2280,
+        "timestamp": "2023-02-20T20:01:12",
+        "followers_at_post": 25352,
+        "engagement_rate": 0.0372
+      },
+      {
+        "post_id": "influencer_009_post_5",
+        "caption": "Check out my latest fitness post! #gym #fitness",
+        "hashtags": [
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 2733,
+        "comments": 104,
+        "shares": 31,
+        "views": 5140,
+        "timestamp": "2023-10-20T11:55:27",
+        "followers_at_post": 29456,
+        "engagement_rate": 0.0974
+      },
+      {
+        "post_id": "influencer_009_post_6",
+        "caption": "Check out my latest fitness post! #health #gym #fitlife",
+        "hashtags": [
+          "#health",
+          "#gym",
+          "#fitlife"
+        ],
+        "likes": 2661,
+        "comments": 32,
+        "shares": 30,
+        "views": 4043,
+        "timestamp": "2023-11-13T12:44:55",
+        "followers_at_post": 30013,
+        "engagement_rate": 0.0907
+      },
+      {
+        "post_id": "influencer_009_post_7",
+        "caption": "Check out my latest fitness post! #workout #fitness #motivation",
+        "hashtags": [
+          "#workout",
+          "#fitness",
+          "#motivation"
+        ],
+        "likes": 2948,
+        "comments": 114,
+        "shares": 46,
+        "views": 11798,
+        "timestamp": "2023-12-13T14:43:15",
+        "followers_at_post": 30581,
+        "engagement_rate": 0.1016
+      },
+      {
+        "post_id": "influencer_009_post_8",
+        "caption": "Check out my latest fitness post! #fitlife #gym #motivation #workout",
+        "hashtags": [
+          "#fitlife",
+          "#gym",
+          "#motivation",
+          "#workout"
+        ],
+        "likes": 1648,
+        "comments": 27,
+        "shares": 27,
+        "views": 5916,
+        "timestamp": "2024-04-03T22:25:43",
+        "followers_at_post": 32963,
+        "engagement_rate": 0.0516
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_010",
+    "username": "fitness_star_10",
+    "niche": "Fitness",
+    "followers_start": 25925,
+    "monthly_follower_growth_pct": -0.06,
+    "avg_engagement_rate": 0.0471,
+    "post_count": 14,
+    "posts": [
+      {
+        "post_id": "influencer_010_post_1",
+        "caption": "Check out my latest fitness post! #motivation #gym #fitlife",
+        "hashtags": [
+          "#motivation",
+          "#gym",
+          "#fitlife"
+        ],
+        "likes": 1012,
+        "comments": 42,
+        "shares": 17,
+        "views": 2328,
+        "timestamp": "2023-01-20T22:22:20",
+        "followers_at_post": 25925,
+        "engagement_rate": 0.0413
+      },
+      {
+        "post_id": "influencer_010_post_2",
+        "caption": "Check out my latest fitness post! #health #fitness",
+        "hashtags": [
+          "#health",
+          "#fitness"
+        ],
+        "likes": 974,
+        "comments": 48,
+        "shares": 9,
+        "views": 2643,
+        "timestamp": "2023-02-05T19:34:11",
+        "followers_at_post": 25910,
+        "engagement_rate": 0.0398
+      },
+      {
+        "post_id": "influencer_010_post_3",
+        "caption": "Check out my latest fitness post! #fitlife #workout #gym #health",
+        "hashtags": [
+          "#fitlife",
+          "#workout",
+          "#gym",
+          "#health"
+        ],
+        "likes": 1023,
+        "comments": 14,
+        "shares": 17,
+        "views": 3127,
+        "timestamp": "2023-02-18T22:14:22",
+        "followers_at_post": 25910,
+        "engagement_rate": 0.0407
+      },
+      {
+        "post_id": "influencer_010_post_4",
+        "caption": "Check out my latest fitness post! #gym #workout #fitness",
+        "hashtags": [
+          "#gym",
+          "#workout",
+          "#fitness"
+        ],
+        "likes": 1417,
+        "comments": 50,
+        "shares": 26,
+        "views": 4346,
+        "timestamp": "2023-03-04T23:11:59",
+        "followers_at_post": 25895,
+        "engagement_rate": 0.0577
+      },
+      {
+        "post_id": "influencer_010_post_5",
+        "caption": "Check out my latest fitness post! #motivation #workout #health #fitness",
+        "hashtags": [
+          "#motivation",
+          "#workout",
+          "#health",
+          "#fitness"
+        ],
+        "likes": 1427,
+        "comments": 43,
+        "shares": 9,
+        "views": 4871,
+        "timestamp": "2023-05-06T06:16:02",
+        "followers_at_post": 25866,
+        "engagement_rate": 0.0572
+      },
+      {
+        "post_id": "influencer_010_post_6",
+        "caption": "Check out my latest fitness post! #workout #gym",
+        "hashtags": [
+          "#workout",
+          "#gym"
+        ],
+        "likes": 1589,
+        "comments": 46,
+        "shares": 30,
+        "views": 5480,
+        "timestamp": "2023-07-24T12:51:55",
+        "followers_at_post": 25836,
+        "engagement_rate": 0.0644
+      },
+      {
+        "post_id": "influencer_010_post_7",
+        "caption": "Check out my latest fitness post! #workout #motivation #fitness",
+        "hashtags": [
+          "#workout",
+          "#motivation",
+          "#fitness"
+        ],
+        "likes": 850,
+        "comments": 10,
+        "shares": 13,
+        "views": 3132,
+        "timestamp": "2023-09-07T07:11:34",
+        "followers_at_post": 25807,
+        "engagement_rate": 0.0338
+      },
+      {
+        "post_id": "influencer_010_post_8",
+        "caption": "Check out my latest fitness post! #health #motivation #workout",
+        "hashtags": [
+          "#health",
+          "#motivation",
+          "#workout"
+        ],
+        "likes": 1964,
+        "comments": 67,
+        "shares": 26,
+        "views": 5232,
+        "timestamp": "2023-10-28T18:01:37",
+        "followers_at_post": 25792,
+        "engagement_rate": 0.0798
+      },
+      {
+        "post_id": "influencer_010_post_9",
+        "caption": "Check out my latest fitness post! #health #motivation",
+        "hashtags": [
+          "#health",
+          "#motivation"
+        ],
+        "likes": 664,
+        "comments": 33,
+        "shares": 7,
+        "views": 2348,
+        "timestamp": "2024-01-05T13:03:47",
+        "followers_at_post": 25749,
+        "engagement_rate": 0.0273
+      },
+      {
+        "post_id": "influencer_010_post_10",
+        "caption": "Check out my latest fitness post! #fitlife #gym #fitness",
+        "hashtags": [
+          "#fitlife",
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 265,
+        "comments": 13,
+        "shares": 3,
+        "views": 1280,
+        "timestamp": "2024-01-23T00:45:23",
+        "followers_at_post": 25749,
+        "engagement_rate": 0.0109
+      },
+      {
+        "post_id": "influencer_010_post_11",
+        "caption": "Check out my latest fitness post! #fitlife #workout",
+        "hashtags": [
+          "#fitlife",
+          "#workout"
+        ],
+        "likes": 945,
+        "comments": 24,
+        "shares": 5,
+        "views": 2805,
+        "timestamp": "2024-02-21T06:19:14",
+        "followers_at_post": 25734,
+        "engagement_rate": 0.0378
+      },
+      {
+        "post_id": "influencer_010_post_12",
+        "caption": "Check out my latest fitness post! #gym #fitlife",
+        "hashtags": [
+          "#gym",
+          "#fitlife"
+        ],
+        "likes": 1398,
+        "comments": 42,
+        "shares": 22,
+        "views": 5820,
+        "timestamp": "2024-04-09T18:02:26",
+        "followers_at_post": 25705,
+        "engagement_rate": 0.0569
+      },
+      {
+        "post_id": "influencer_010_post_13",
+        "caption": "Check out my latest fitness post! #gym #fitness",
+        "hashtags": [
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 597,
+        "comments": 24,
+        "shares": 2,
+        "views": 2749,
+        "timestamp": "2024-05-13T22:30:02",
+        "followers_at_post": 25690,
+        "engagement_rate": 0.0243
+      },
+      {
+        "post_id": "influencer_010_post_14",
+        "caption": "Check out my latest fitness post! #health #motivation",
+        "hashtags": [
+          "#health",
+          "#motivation"
+        ],
+        "likes": 2191,
+        "comments": 36,
+        "shares": 20,
+        "views": 6042,
+        "timestamp": "2024-05-17T09:38:04",
+        "followers_at_post": 25690,
+        "engagement_rate": 0.0875
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_011",
+    "username": "entertainment_star_11",
+    "niche": "Entertainment",
+    "followers_start": 53763,
+    "monthly_follower_growth_pct": 6.9,
+    "avg_engagement_rate": 0.0488,
+    "post_count": 15,
+    "posts": [
+      {
+        "post_id": "influencer_011_post_1",
+        "caption": "Check out my latest entertainment post! #popculture #movie",
+        "hashtags": [
+          "#popculture",
+          "#movie"
+        ],
+        "likes": 703,
+        "comments": 23,
+        "shares": 13,
+        "views": 1980,
+        "timestamp": "2023-01-06T22:40:00",
+        "followers_at_post": 53763,
+        "engagement_rate": 0.0137
+      },
+      {
+        "post_id": "influencer_011_post_2",
+        "caption": "Check out my latest entertainment post! #hollywood #movie #celebrity",
+        "hashtags": [
+          "#hollywood",
+          "#movie",
+          "#celebrity"
+        ],
+        "likes": 1798,
+        "comments": 85,
+        "shares": 8,
+        "views": 5697,
+        "timestamp": "2023-01-27T16:33:05",
+        "followers_at_post": 53763,
+        "engagement_rate": 0.0352
+      },
+      {
+        "post_id": "influencer_011_post_3",
+        "caption": "Check out my latest entertainment post! #popculture #hollywood",
+        "hashtags": [
+          "#popculture",
+          "#hollywood"
+        ],
+        "likes": 2573,
+        "comments": 121,
+        "shares": 16,
+        "views": 10509,
+        "timestamp": "2023-03-23T23:29:56",
+        "followers_at_post": 61441,
+        "engagement_rate": 0.0441
+      },
+      {
+        "post_id": "influencer_011_post_4",
+        "caption": "Check out my latest entertainment post! #movie #fun",
+        "hashtags": [
+          "#movie",
+          "#fun"
+        ],
+        "likes": 2509,
+        "comments": 83,
+        "shares": 22,
+        "views": 4484,
+        "timestamp": "2023-04-08T16:00:08",
+        "followers_at_post": 65682,
+        "engagement_rate": 0.0398
+      },
+      {
+        "post_id": "influencer_011_post_5",
+        "caption": "Check out my latest entertainment post! #movie #fun #celebrity",
+        "hashtags": [
+          "#movie",
+          "#fun",
+          "#celebrity"
+        ],
+        "likes": 1070,
+        "comments": 16,
+        "shares": 19,
+        "views": 2598,
+        "timestamp": "2023-04-21T11:35:42",
+        "followers_at_post": 65682,
+        "engagement_rate": 0.0168
+      },
+      {
+        "post_id": "influencer_011_post_6",
+        "caption": "Check out my latest entertainment post! #celebrity #music #movie #popculture",
+        "hashtags": [
+          "#celebrity",
+          "#music",
+          "#movie",
+          "#popculture"
+        ],
+        "likes": 8428,
+        "comments": 420,
+        "shares": 144,
+        "views": 14310,
+        "timestamp": "2023-08-01T17:18:23",
+        "followers_at_post": 85783,
+        "engagement_rate": 0.1048
+      },
+      {
+        "post_id": "influencer_011_post_7",
+        "caption": "Check out my latest entertainment post! #movie #fun #celebrity",
+        "hashtags": [
+          "#movie",
+          "#fun",
+          "#celebrity"
+        ],
+        "likes": 6209,
+        "comments": 99,
+        "shares": 123,
+        "views": 21868,
+        "timestamp": "2023-08-04T03:18:39",
+        "followers_at_post": 85783,
+        "engagement_rate": 0.075
+      },
+      {
+        "post_id": "influencer_011_post_8",
+        "caption": "Check out my latest entertainment post! #music #hollywood",
+        "hashtags": [
+          "#music",
+          "#hollywood"
+        ],
+        "likes": 6427,
+        "comments": 229,
+        "shares": 43,
+        "views": 22024,
+        "timestamp": "2023-08-19T19:45:48",
+        "followers_at_post": 85783,
+        "engagement_rate": 0.0781
+      },
+      {
+        "post_id": "influencer_011_post_9",
+        "caption": "Check out my latest entertainment post! #popculture #movie #hollywood",
+        "hashtags": [
+          "#popculture",
+          "#movie",
+          "#hollywood"
+        ],
+        "likes": 1251,
+        "comments": 50,
+        "shares": 24,
+        "views": 2241,
+        "timestamp": "2023-10-17T08:44:40",
+        "followers_at_post": 98035,
+        "engagement_rate": 0.0135
+      },
+      {
+        "post_id": "influencer_011_post_10",
+        "caption": "Check out my latest entertainment post! #movie #hollywood #celebrity #fun",
+        "hashtags": [
+          "#movie",
+          "#hollywood",
+          "#celebrity",
+          "#fun"
+        ],
+        "likes": 5242,
+        "comments": 189,
+        "shares": 102,
+        "views": 18060,
+        "timestamp": "2023-10-21T21:01:30",
+        "followers_at_post": 98035,
+        "engagement_rate": 0.0564
+      },
+      {
+        "post_id": "influencer_011_post_11",
+        "caption": "Check out my latest entertainment post! #celebrity #music #hollywood #movie",
+        "hashtags": [
+          "#celebrity",
+          "#music",
+          "#hollywood",
+          "#movie"
+        ],
+        "likes": 9281,
+        "comments": 292,
+        "shares": 47,
+        "views": 34519,
+        "timestamp": "2023-12-06T02:33:31",
+        "followers_at_post": 112036,
+        "engagement_rate": 0.0859
+      },
+      {
+        "post_id": "influencer_011_post_12",
+        "caption": "Check out my latest entertainment post! #hollywood #popculture #fun #celebrity",
+        "hashtags": [
+          "#hollywood",
+          "#popculture",
+          "#fun",
+          "#celebrity"
+        ],
+        "likes": 4086,
+        "comments": 145,
+        "shares": 30,
+        "views": 17760,
+        "timestamp": "2023-12-15T15:42:35",
+        "followers_at_post": 112036,
+        "engagement_rate": 0.038
+      },
+      {
+        "post_id": "influencer_011_post_13",
+        "caption": "Check out my latest entertainment post! #popculture #movie #music",
+        "hashtags": [
+          "#popculture",
+          "#movie",
+          "#music"
+        ],
+        "likes": 4815,
+        "comments": 115,
+        "shares": 94,
+        "views": 11076,
+        "timestamp": "2024-01-22T00:27:14",
+        "followers_at_post": 119770,
+        "engagement_rate": 0.0419
+      },
+      {
+        "post_id": "influencer_011_post_14",
+        "caption": "Check out my latest entertainment post! #music #celebrity",
+        "hashtags": [
+          "#music",
+          "#celebrity"
+        ],
+        "likes": 8490,
+        "comments": 209,
+        "shares": 48,
+        "views": 28445,
+        "timestamp": "2024-02-06T19:02:59",
+        "followers_at_post": 128037,
+        "engagement_rate": 0.0683
+      },
+      {
+        "post_id": "influencer_011_post_15",
+        "caption": "Check out my latest entertainment post! #celebrity #fun #hollywood #movie",
+        "hashtags": [
+          "#celebrity",
+          "#fun",
+          "#hollywood",
+          "#movie"
+        ],
+        "likes": 3064,
+        "comments": 139,
+        "shares": 49,
+        "views": 12031,
+        "timestamp": "2024-05-06T17:05:16",
+        "followers_at_post": 156424,
+        "engagement_rate": 0.0208
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_012",
+    "username": "lifestyle_star_12",
+    "niche": "Lifestyle",
+    "followers_start": 42909,
+    "monthly_follower_growth_pct": 0.1,
+    "avg_engagement_rate": 0.0355,
+    "post_count": 10,
+    "posts": [
+      {
+        "post_id": "influencer_012_post_1",
+        "caption": "Check out my latest lifestyle post! #photography #foodie #style #fashion",
+        "hashtags": [
+          "#photography",
+          "#foodie",
+          "#style",
+          "#fashion"
+        ],
+        "likes": 868,
+        "comments": 21,
+        "shares": 17,
+        "views": 3949,
+        "timestamp": "2023-02-07T19:36:23",
+        "followers_at_post": 42953,
+        "engagement_rate": 0.0211
+      },
+      {
+        "post_id": "influencer_012_post_2",
+        "caption": "Check out my latest lifestyle post! #style #foodie",
+        "hashtags": [
+          "#style",
+          "#foodie"
+        ],
+        "likes": 1168,
+        "comments": 20,
+        "shares": 18,
+        "views": 4544,
+        "timestamp": "2023-02-17T14:53:56",
+        "followers_at_post": 42953,
+        "engagement_rate": 0.0281
+      },
+      {
+        "post_id": "influencer_012_post_3",
+        "caption": "Check out my latest lifestyle post! #fashion #life #photography #travel",
+        "hashtags": [
+          "#fashion",
+          "#life",
+          "#photography",
+          "#travel"
+        ],
+        "likes": 2131,
+        "comments": 30,
+        "shares": 28,
+        "views": 8742,
+        "timestamp": "2023-04-12T23:41:40",
+        "followers_at_post": 43044,
+        "engagement_rate": 0.0509
+      },
+      {
+        "post_id": "influencer_012_post_4",
+        "caption": "Check out my latest lifestyle post! #photography #fashion #foodie #travel",
+        "hashtags": [
+          "#photography",
+          "#fashion",
+          "#foodie",
+          "#travel"
+        ],
+        "likes": 3216,
+        "comments": 84,
+        "shares": 24,
+        "views": 6820,
+        "timestamp": "2023-06-04T15:32:53",
+        "followers_at_post": 43134,
+        "engagement_rate": 0.0771
+      },
+      {
+        "post_id": "influencer_012_post_5",
+        "caption": "Check out my latest lifestyle post! #fashion #life #style",
+        "hashtags": [
+          "#fashion",
+          "#life",
+          "#style"
+        ],
+        "likes": 602,
+        "comments": 30,
+        "shares": 3,
+        "views": 2325,
+        "timestamp": "2023-06-11T03:15:32",
+        "followers_at_post": 43134,
+        "engagement_rate": 0.0147
+      },
+      {
+        "post_id": "influencer_012_post_6",
+        "caption": "Check out my latest lifestyle post! #foodie #fashion #photography #life",
+        "hashtags": [
+          "#foodie",
+          "#fashion",
+          "#photography",
+          "#life"
+        ],
+        "likes": 2664,
+        "comments": 48,
+        "shares": 19,
+        "views": 8561,
+        "timestamp": "2023-07-30T21:02:27",
+        "followers_at_post": 43179,
+        "engagement_rate": 0.0632
+      },
+      {
+        "post_id": "influencer_012_post_7",
+        "caption": "Check out my latest lifestyle post! #style #travel #fashion",
+        "hashtags": [
+          "#style",
+          "#travel",
+          "#fashion"
+        ],
+        "likes": 735,
+        "comments": 17,
+        "shares": 3,
+        "views": 1851,
+        "timestamp": "2023-08-29T07:05:48",
+        "followers_at_post": 43224,
+        "engagement_rate": 0.0175
+      },
+      {
+        "post_id": "influencer_012_post_8",
+        "caption": "Check out my latest lifestyle post! #life #foodie #photography #fashion",
+        "hashtags": [
+          "#life",
+          "#foodie",
+          "#photography",
+          "#fashion"
+        ],
+        "likes": 504,
+        "comments": 19,
+        "shares": 10,
+        "views": 978,
+        "timestamp": "2023-09-04T23:55:06",
+        "followers_at_post": 43270,
+        "engagement_rate": 0.0123
+      },
+      {
+        "post_id": "influencer_012_post_9",
+        "caption": "Check out my latest lifestyle post! #foodie #fashion #life",
+        "hashtags": [
+          "#foodie",
+          "#fashion",
+          "#life"
+        ],
+        "likes": 753,
+        "comments": 15,
+        "shares": 10,
+        "views": 2428,
+        "timestamp": "2024-03-18T06:07:52",
+        "followers_at_post": 43542,
+        "engagement_rate": 0.0179
+      },
+      {
+        "post_id": "influencer_012_post_10",
+        "caption": "Check out my latest lifestyle post! #foodie #photography",
+        "hashtags": [
+          "#foodie",
+          "#photography"
+        ],
+        "likes": 2204,
+        "comments": 34,
+        "shares": 37,
+        "views": 4436,
+        "timestamp": "2024-06-06T09:31:26",
+        "followers_at_post": 43680,
+        "engagement_rate": 0.0521
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_013",
+    "username": "fitness_star_13",
+    "niche": "Fitness",
+    "followers_start": 95645,
+    "monthly_follower_growth_pct": 1.11,
+    "avg_engagement_rate": 0.0592,
+    "post_count": 15,
+    "posts": [
+      {
+        "post_id": "influencer_013_post_1",
+        "caption": "Check out my latest fitness post! #fitlife #motivation",
+        "hashtags": [
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 7103,
+        "comments": 108,
+        "shares": 109,
+        "views": 24206,
+        "timestamp": "2023-02-07T07:02:14",
+        "followers_at_post": 96705,
+        "engagement_rate": 0.0757
+      },
+      {
+        "post_id": "influencer_013_post_2",
+        "caption": "Check out my latest fitness post! #motivation #gym #workout",
+        "hashtags": [
+          "#motivation",
+          "#gym",
+          "#workout"
+        ],
+        "likes": 3818,
+        "comments": 92,
+        "shares": 55,
+        "views": 18164,
+        "timestamp": "2023-04-04T13:22:45",
+        "followers_at_post": 98862,
+        "engagement_rate": 0.0401
+      },
+      {
+        "post_id": "influencer_013_post_3",
+        "caption": "Check out my latest fitness post! #health #gym",
+        "hashtags": [
+          "#health",
+          "#gym"
+        ],
+        "likes": 4649,
+        "comments": 131,
+        "shares": 80,
+        "views": 7541,
+        "timestamp": "2023-05-16T04:41:34",
+        "followers_at_post": 99959,
+        "engagement_rate": 0.0486
+      },
+      {
+        "post_id": "influencer_013_post_4",
+        "caption": "Check out my latest fitness post! #fitlife #health #gym #motivation",
+        "hashtags": [
+          "#fitlife",
+          "#health",
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 2235,
+        "comments": 92,
+        "shares": 43,
+        "views": 3368,
+        "timestamp": "2023-05-29T11:16:44",
+        "followers_at_post": 99959,
+        "engagement_rate": 0.0237
+      },
+      {
+        "post_id": "influencer_013_post_5",
+        "caption": "Check out my latest fitness post! #fitlife #motivation #health #workout",
+        "hashtags": [
+          "#fitlife",
+          "#motivation",
+          "#health",
+          "#workout"
+        ],
+        "likes": 6203,
+        "comments": 152,
+        "shares": 47,
+        "views": 25994,
+        "timestamp": "2023-07-04T23:47:21",
+        "followers_at_post": 102188,
+        "engagement_rate": 0.0626
+      },
+      {
+        "post_id": "influencer_013_post_6",
+        "caption": "Check out my latest fitness post! #workout #gym #health",
+        "hashtags": [
+          "#workout",
+          "#gym",
+          "#health"
+        ],
+        "likes": 6017,
+        "comments": 79,
+        "shares": 79,
+        "views": 26075,
+        "timestamp": "2023-09-13T16:23:39",
+        "followers_at_post": 104467,
+        "engagement_rate": 0.0591
+      },
+      {
+        "post_id": "influencer_013_post_7",
+        "caption": "Check out my latest fitness post! #workout #gym",
+        "hashtags": [
+          "#workout",
+          "#gym"
+        ],
+        "likes": 6848,
+        "comments": 210,
+        "shares": 65,
+        "views": 30098,
+        "timestamp": "2023-10-26T20:14:30",
+        "followers_at_post": 105626,
+        "engagement_rate": 0.0674
+      },
+      {
+        "post_id": "influencer_013_post_8",
+        "caption": "Check out my latest fitness post! #motivation #workout #fitlife #fitness",
+        "hashtags": [
+          "#motivation",
+          "#workout",
+          "#fitlife",
+          "#fitness"
+        ],
+        "likes": 2432,
+        "comments": 105,
+        "shares": 44,
+        "views": 8908,
+        "timestamp": "2023-11-12T05:08:41",
+        "followers_at_post": 106798,
+        "engagement_rate": 0.0242
+      },
+      {
+        "post_id": "influencer_013_post_9",
+        "caption": "Check out my latest fitness post! #fitness #health #gym #motivation",
+        "hashtags": [
+          "#fitness",
+          "#health",
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 4184,
+        "comments": 155,
+        "shares": 69,
+        "views": 10141,
+        "timestamp": "2023-11-27T19:13:32",
+        "followers_at_post": 106798,
+        "engagement_rate": 0.0413
+      },
+      {
+        "post_id": "influencer_013_post_10",
+        "caption": "Check out my latest fitness post! #workout #motivation #fitlife",
+        "hashtags": [
+          "#workout",
+          "#motivation",
+          "#fitlife"
+        ],
+        "likes": 9738,
+        "comments": 474,
+        "shares": 61,
+        "views": 30136,
+        "timestamp": "2023-12-22T15:01:55",
+        "followers_at_post": 107982,
+        "engagement_rate": 0.0951
+      },
+      {
+        "post_id": "influencer_013_post_11",
+        "caption": "Check out my latest fitness post! #health #fitlife #motivation #workout",
+        "hashtags": [
+          "#health",
+          "#fitlife",
+          "#motivation",
+          "#workout"
+        ],
+        "likes": 9157,
+        "comments": 307,
+        "shares": 139,
+        "views": 26294,
+        "timestamp": "2024-02-06T05:09:57",
+        "followers_at_post": 110391,
+        "engagement_rate": 0.087
+      },
+      {
+        "post_id": "influencer_013_post_12",
+        "caption": "Check out my latest fitness post! #gym #fitness",
+        "hashtags": [
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 6168,
+        "comments": 272,
+        "shares": 72,
+        "views": 21377,
+        "timestamp": "2024-03-16T15:38:53",
+        "followers_at_post": 111615,
+        "engagement_rate": 0.0583
+      },
+      {
+        "post_id": "influencer_013_post_13",
+        "caption": "Check out my latest fitness post! #health #workout",
+        "hashtags": [
+          "#health",
+          "#workout"
+        ],
+        "likes": 10373,
+        "comments": 442,
+        "shares": 183,
+        "views": 44781,
+        "timestamp": "2024-04-11T08:32:40",
+        "followers_at_post": 112853,
+        "engagement_rate": 0.0975
+      },
+      {
+        "post_id": "influencer_013_post_14",
+        "caption": "Check out my latest fitness post! #health #fitlife #motivation #workout",
+        "hashtags": [
+          "#health",
+          "#fitlife",
+          "#motivation",
+          "#workout"
+        ],
+        "likes": 5589,
+        "comments": 133,
+        "shares": 67,
+        "views": 19533,
+        "timestamp": "2024-04-29T18:23:40",
+        "followers_at_post": 112853,
+        "engagement_rate": 0.0513
+      },
+      {
+        "post_id": "influencer_013_post_15",
+        "caption": "Check out my latest fitness post! #fitlife #motivation",
+        "hashtags": [
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 6371,
+        "comments": 69,
+        "shares": 78,
+        "views": 14281,
+        "timestamp": "2024-06-09T05:42:49",
+        "followers_at_post": 115370,
+        "engagement_rate": 0.0565
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_014",
+    "username": "fitness_star_14",
+    "niche": "Fitness",
+    "followers_start": 57375,
+    "monthly_follower_growth_pct": 4.27,
+    "avg_engagement_rate": 0.0612,
+    "post_count": 11,
+    "posts": [
+      {
+        "post_id": "influencer_014_post_1",
+        "caption": "Check out my latest fitness post! #gym #fitness #workout #fitlife",
+        "hashtags": [
+          "#gym",
+          "#fitness",
+          "#workout",
+          "#fitlife"
+        ],
+        "likes": 5358,
+        "comments": 209,
+        "shares": 74,
+        "views": 9938,
+        "timestamp": "2023-02-20T16:14:44",
+        "followers_at_post": 59826,
+        "engagement_rate": 0.0943
+      },
+      {
+        "post_id": "influencer_014_post_2",
+        "caption": "Check out my latest fitness post! #fitlife #motivation #health",
+        "hashtags": [
+          "#fitlife",
+          "#motivation",
+          "#health"
+        ],
+        "likes": 4001,
+        "comments": 78,
+        "shares": 62,
+        "views": 19699,
+        "timestamp": "2023-03-18T03:48:42",
+        "followers_at_post": 62382,
+        "engagement_rate": 0.0664
+      },
+      {
+        "post_id": "influencer_014_post_3",
+        "caption": "Check out my latest fitness post! #motivation #gym #health",
+        "hashtags": [
+          "#motivation",
+          "#gym",
+          "#health"
+        ],
+        "likes": 6142,
+        "comments": 69,
+        "shares": 47,
+        "views": 20725,
+        "timestamp": "2023-03-18T08:19:45",
+        "followers_at_post": 62382,
+        "engagement_rate": 0.1003
+      },
+      {
+        "post_id": "influencer_014_post_4",
+        "caption": "Check out my latest fitness post! #motivation #gym",
+        "hashtags": [
+          "#motivation",
+          "#gym"
+        ],
+        "likes": 3015,
+        "comments": 68,
+        "shares": 38,
+        "views": 14627,
+        "timestamp": "2023-05-19T23:49:18",
+        "followers_at_post": 67826,
+        "engagement_rate": 0.046
+      },
+      {
+        "post_id": "influencer_014_post_5",
+        "caption": "Check out my latest fitness post! #fitlife #motivation #gym",
+        "hashtags": [
+          "#fitlife",
+          "#motivation",
+          "#gym"
+        ],
+        "likes": 832,
+        "comments": 37,
+        "shares": 13,
+        "views": 2316,
+        "timestamp": "2023-05-26T07:26:25",
+        "followers_at_post": 67826,
+        "engagement_rate": 0.013
+      },
+      {
+        "post_id": "influencer_014_post_6",
+        "caption": "Check out my latest fitness post! #gym #fitlife #workout",
+        "hashtags": [
+          "#gym",
+          "#fitlife",
+          "#workout"
+        ],
+        "likes": 5290,
+        "comments": 113,
+        "shares": 31,
+        "views": 17653,
+        "timestamp": "2023-09-09T10:59:16",
+        "followers_at_post": 80181,
+        "engagement_rate": 0.0678
+      },
+      {
+        "post_id": "influencer_014_post_7",
+        "caption": "Check out my latest fitness post! #workout #motivation",
+        "hashtags": [
+          "#workout",
+          "#motivation"
+        ],
+        "likes": 3684,
+        "comments": 161,
+        "shares": 41,
+        "views": 6013,
+        "timestamp": "2023-10-01T12:21:14",
+        "followers_at_post": 83607,
+        "engagement_rate": 0.0465
+      },
+      {
+        "post_id": "influencer_014_post_8",
+        "caption": "Check out my latest fitness post! #gym #health #motivation #fitness",
+        "hashtags": [
+          "#gym",
+          "#health",
+          "#motivation",
+          "#fitness"
+        ],
+        "likes": 3833,
+        "comments": 148,
+        "shares": 19,
+        "views": 14094,
+        "timestamp": "2023-10-18T18:31:29",
+        "followers_at_post": 83607,
+        "engagement_rate": 0.0478
+      },
+      {
+        "post_id": "influencer_014_post_9",
+        "caption": "Check out my latest fitness post! #motivation #fitlife #health",
+        "hashtags": [
+          "#motivation",
+          "#fitlife",
+          "#health"
+        ],
+        "likes": 2883,
+        "comments": 31,
+        "shares": 17,
+        "views": 9728,
+        "timestamp": "2023-12-02T08:57:11",
+        "followers_at_post": 90904,
+        "engagement_rate": 0.0322
+      },
+      {
+        "post_id": "influencer_014_post_10",
+        "caption": "Check out my latest fitness post! #workout #fitlife #motivation",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#motivation"
+        ],
+        "likes": 8792,
+        "comments": 349,
+        "shares": 108,
+        "views": 29333,
+        "timestamp": "2024-01-03T16:22:00",
+        "followers_at_post": 94788,
+        "engagement_rate": 0.0976
+      },
+      {
+        "post_id": "influencer_014_post_11",
+        "caption": "Check out my latest fitness post! #workout #fitlife",
+        "hashtags": [
+          "#workout",
+          "#fitlife"
+        ],
+        "likes": 6285,
+        "comments": 223,
+        "shares": 119,
+        "views": 27232,
+        "timestamp": "2024-04-25T11:57:02",
+        "followers_at_post": 107463,
+        "engagement_rate": 0.0617
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_015",
+    "username": "fitness_star_15",
+    "niche": "Fitness",
+    "followers_start": 60231,
+    "monthly_follower_growth_pct": 3.46,
+    "avg_engagement_rate": 0.0478,
+    "post_count": 9,
+    "posts": [
+      {
+        "post_id": "influencer_015_post_1",
+        "caption": "Check out my latest fitness post! #fitlife #fitness",
+        "hashtags": [
+          "#fitlife",
+          "#fitness"
+        ],
+        "likes": 3715,
+        "comments": 104,
+        "shares": 72,
+        "views": 14378,
+        "timestamp": "2023-02-05T22:45:23",
+        "followers_at_post": 62314,
+        "engagement_rate": 0.0624
+      },
+      {
+        "post_id": "influencer_015_post_2",
+        "caption": "Check out my latest fitness post! #gym #motivation",
+        "hashtags": [
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 1174,
+        "comments": 26,
+        "shares": 19,
+        "views": 2114,
+        "timestamp": "2023-05-31T04:45:06",
+        "followers_at_post": 69007,
+        "engagement_rate": 0.0177
+      },
+      {
+        "post_id": "influencer_015_post_3",
+        "caption": "Check out my latest fitness post! #motivation #health #workout",
+        "hashtags": [
+          "#motivation",
+          "#health",
+          "#workout"
+        ],
+        "likes": 6180,
+        "comments": 141,
+        "shares": 52,
+        "views": 20053,
+        "timestamp": "2023-09-08T08:53:25",
+        "followers_at_post": 79061,
+        "engagement_rate": 0.0806
+      },
+      {
+        "post_id": "influencer_015_post_4",
+        "caption": "Check out my latest fitness post! #gym #fitlife #health",
+        "hashtags": [
+          "#gym",
+          "#fitlife",
+          "#health"
+        ],
+        "likes": 4577,
+        "comments": 82,
+        "shares": 80,
+        "views": 11872,
+        "timestamp": "2023-10-20T09:11:50",
+        "followers_at_post": 81796,
+        "engagement_rate": 0.0579
+      },
+      {
+        "post_id": "influencer_015_post_5",
+        "caption": "Check out my latest fitness post! #fitness #motivation #health #workout",
+        "hashtags": [
+          "#fitness",
+          "#motivation",
+          "#health",
+          "#workout"
+        ],
+        "likes": 4528,
+        "comments": 82,
+        "shares": 39,
+        "views": 8790,
+        "timestamp": "2024-01-20T22:34:20",
+        "followers_at_post": 90581,
+        "engagement_rate": 0.0513
+      },
+      {
+        "post_id": "influencer_015_post_6",
+        "caption": "Check out my latest fitness post! #fitlife #health #fitness",
+        "hashtags": [
+          "#fitlife",
+          "#health",
+          "#fitness"
+        ],
+        "likes": 2062,
+        "comments": 30,
+        "shares": 20,
+        "views": 5056,
+        "timestamp": "2024-01-27T15:13:51",
+        "followers_at_post": 90581,
+        "engagement_rate": 0.0233
+      },
+      {
+        "post_id": "influencer_015_post_7",
+        "caption": "Check out my latest fitness post! #fitness #motivation",
+        "hashtags": [
+          "#fitness",
+          "#motivation"
+        ],
+        "likes": 9419,
+        "comments": 253,
+        "shares": 71,
+        "views": 40603,
+        "timestamp": "2024-04-15T20:56:10",
+        "followers_at_post": 100310,
+        "engagement_rate": 0.0971
+      },
+      {
+        "post_id": "influencer_015_post_8",
+        "caption": "Check out my latest fitness post! #workout #fitlife #health #fitness",
+        "hashtags": [
+          "#workout",
+          "#fitlife",
+          "#health",
+          "#fitness"
+        ],
+        "likes": 2266,
+        "comments": 69,
+        "shares": 37,
+        "views": 5875,
+        "timestamp": "2024-05-14T08:41:22",
+        "followers_at_post": 103780,
+        "engagement_rate": 0.0229
+      },
+      {
+        "post_id": "influencer_015_post_9",
+        "caption": "Check out my latest fitness post! #workout #motivation #fitness",
+        "hashtags": [
+          "#workout",
+          "#motivation",
+          "#fitness"
+        ],
+        "likes": 1745,
+        "comments": 58,
+        "shares": 29,
+        "views": 6082,
+        "timestamp": "2024-06-10T09:37:13",
+        "followers_at_post": 107370,
+        "engagement_rate": 0.0171
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_016",
+    "username": "entertainment_star_16",
+    "niche": "Entertainment",
+    "followers_start": 58572,
+    "monthly_follower_growth_pct": 0.33,
+    "avg_engagement_rate": 0.0623,
+    "post_count": 14,
+    "posts": [
+      {
+        "post_id": "influencer_016_post_1",
+        "caption": "Check out my latest entertainment post! #fun #movie #popculture",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#popculture"
+        ],
+        "likes": 3261,
+        "comments": 160,
+        "shares": 63,
+        "views": 7786,
+        "timestamp": "2023-01-30T16:36:50",
+        "followers_at_post": 58572,
+        "engagement_rate": 0.0595
+      },
+      {
+        "post_id": "influencer_016_post_2",
+        "caption": "Check out my latest entertainment post! #fun #hollywood #celebrity #movie",
+        "hashtags": [
+          "#fun",
+          "#hollywood",
+          "#celebrity",
+          "#movie"
+        ],
+        "likes": 3468,
+        "comments": 37,
+        "shares": 27,
+        "views": 5864,
+        "timestamp": "2023-02-18T01:46:05",
+        "followers_at_post": 58765,
+        "engagement_rate": 0.0601
+      },
+      {
+        "post_id": "influencer_016_post_3",
+        "caption": "Check out my latest entertainment post! #fun #popculture #music #hollywood",
+        "hashtags": [
+          "#fun",
+          "#popculture",
+          "#music",
+          "#hollywood"
+        ],
+        "likes": 4095,
+        "comments": 178,
+        "shares": 59,
+        "views": 8369,
+        "timestamp": "2023-04-25T00:10:06",
+        "followers_at_post": 59155,
+        "engagement_rate": 0.0732
+      },
+      {
+        "post_id": "influencer_016_post_4",
+        "caption": "Check out my latest entertainment post! #movie #celebrity #music",
+        "hashtags": [
+          "#movie",
+          "#celebrity",
+          "#music"
+        ],
+        "likes": 1350,
+        "comments": 60,
+        "shares": 6,
+        "views": 4554,
+        "timestamp": "2023-05-12T17:35:14",
+        "followers_at_post": 59351,
+        "engagement_rate": 0.0239
+      },
+      {
+        "post_id": "influencer_016_post_5",
+        "caption": "Check out my latest entertainment post! #music #celebrity",
+        "hashtags": [
+          "#music",
+          "#celebrity"
+        ],
+        "likes": 1647,
+        "comments": 22,
+        "shares": 15,
+        "views": 4732,
+        "timestamp": "2023-05-19T06:15:17",
+        "followers_at_post": 59351,
+        "engagement_rate": 0.0284
+      },
+      {
+        "post_id": "influencer_016_post_6",
+        "caption": "Check out my latest entertainment post! #celebrity #popculture",
+        "hashtags": [
+          "#celebrity",
+          "#popculture"
+        ],
+        "likes": 3899,
+        "comments": 188,
+        "shares": 26,
+        "views": 10143,
+        "timestamp": "2023-06-12T23:21:07",
+        "followers_at_post": 59547,
+        "engagement_rate": 0.0691
+      },
+      {
+        "post_id": "influencer_016_post_7",
+        "caption": "Check out my latest entertainment post! #music #hollywood #celebrity",
+        "hashtags": [
+          "#music",
+          "#hollywood",
+          "#celebrity"
+        ],
+        "likes": 3881,
+        "comments": 156,
+        "shares": 28,
+        "views": 15566,
+        "timestamp": "2023-06-15T15:34:48",
+        "followers_at_post": 59547,
+        "engagement_rate": 0.0683
+      },
+      {
+        "post_id": "influencer_016_post_8",
+        "caption": "Check out my latest entertainment post! #popculture #celebrity #movie",
+        "hashtags": [
+          "#popculture",
+          "#celebrity",
+          "#movie"
+        ],
+        "likes": 5315,
+        "comments": 261,
+        "shares": 41,
+        "views": 22063,
+        "timestamp": "2023-06-16T23:59:04",
+        "followers_at_post": 59547,
+        "engagement_rate": 0.0943
+      },
+      {
+        "post_id": "influencer_016_post_9",
+        "caption": "Check out my latest entertainment post! #celebrity #hollywood #popculture #fun",
+        "hashtags": [
+          "#celebrity",
+          "#hollywood",
+          "#popculture",
+          "#fun"
+        ],
+        "likes": 2244,
+        "comments": 80,
+        "shares": 16,
+        "views": 5099,
+        "timestamp": "2023-09-01T04:00:28",
+        "followers_at_post": 60141,
+        "engagement_rate": 0.0389
+      },
+      {
+        "post_id": "influencer_016_post_10",
+        "caption": "Check out my latest entertainment post! #fun #popculture #music",
+        "hashtags": [
+          "#fun",
+          "#popculture",
+          "#music"
+        ],
+        "likes": 2238,
+        "comments": 54,
+        "shares": 21,
+        "views": 8759,
+        "timestamp": "2024-01-17T01:03:42",
+        "followers_at_post": 60941,
+        "engagement_rate": 0.038
+      },
+      {
+        "post_id": "influencer_016_post_11",
+        "caption": "Check out my latest entertainment post! #popculture #music",
+        "hashtags": [
+          "#popculture",
+          "#music"
+        ],
+        "likes": 3505,
+        "comments": 117,
+        "shares": 43,
+        "views": 9097,
+        "timestamp": "2024-02-02T14:34:17",
+        "followers_at_post": 61142,
+        "engagement_rate": 0.0599
+      },
+      {
+        "post_id": "influencer_016_post_12",
+        "caption": "Check out my latest entertainment post! #hollywood #popculture #fun #celebrity",
+        "hashtags": [
+          "#hollywood",
+          "#popculture",
+          "#fun",
+          "#celebrity"
+        ],
+        "likes": 4455,
+        "comments": 111,
+        "shares": 61,
+        "views": 20808,
+        "timestamp": "2024-02-03T19:57:32",
+        "followers_at_post": 61142,
+        "engagement_rate": 0.0757
+      },
+      {
+        "post_id": "influencer_016_post_13",
+        "caption": "Check out my latest entertainment post! #movie #fun #hollywood",
+        "hashtags": [
+          "#movie",
+          "#fun",
+          "#hollywood"
+        ],
+        "likes": 5974,
+        "comments": 142,
+        "shares": 64,
+        "views": 16190,
+        "timestamp": "2024-03-13T03:02:53",
+        "followers_at_post": 61345,
+        "engagement_rate": 0.1007
+      },
+      {
+        "post_id": "influencer_016_post_14",
+        "caption": "Check out my latest entertainment post! #celebrity #popculture #movie #hollywood",
+        "hashtags": [
+          "#celebrity",
+          "#popculture",
+          "#movie",
+          "#hollywood"
+        ],
+        "likes": 4865,
+        "comments": 154,
+        "shares": 65,
+        "views": 15666,
+        "timestamp": "2024-05-28T20:50:43",
+        "followers_at_post": 61752,
+        "engagement_rate": 0.0823
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_017",
+    "username": "lifestyle_star_17",
+    "niche": "Lifestyle",
+    "followers_start": 57350,
+    "monthly_follower_growth_pct": 5.83,
+    "avg_engagement_rate": 0.0598,
+    "post_count": 11,
+    "posts": [
+      {
+        "post_id": "influencer_017_post_1",
+        "caption": "Check out my latest lifestyle post! #style #fashion #life #travel",
+        "hashtags": [
+          "#style",
+          "#fashion",
+          "#life",
+          "#travel"
+        ],
+        "likes": 868,
+        "comments": 12,
+        "shares": 4,
+        "views": 1891,
+        "timestamp": "2023-02-06T00:23:15",
+        "followers_at_post": 60694,
+        "engagement_rate": 0.0146
+      },
+      {
+        "post_id": "influencer_017_post_2",
+        "caption": "Check out my latest lifestyle post! #photography #life #style",
+        "hashtags": [
+          "#photography",
+          "#life",
+          "#style"
+        ],
+        "likes": 5435,
+        "comments": 188,
+        "shares": 67,
+        "views": 24057,
+        "timestamp": "2023-03-14T18:00:54",
+        "followers_at_post": 64234,
+        "engagement_rate": 0.0886
+      },
+      {
+        "post_id": "influencer_017_post_3",
+        "caption": "Check out my latest lifestyle post! #fashion #photography #travel",
+        "hashtags": [
+          "#fashion",
+          "#photography",
+          "#travel"
+        ],
+        "likes": 2315,
+        "comments": 62,
+        "shares": 12,
+        "views": 10855,
+        "timestamp": "2023-03-26T07:43:28",
+        "followers_at_post": 64234,
+        "engagement_rate": 0.0372
+      },
+      {
+        "post_id": "influencer_017_post_4",
+        "caption": "Check out my latest lifestyle post! #style #foodie",
+        "hashtags": [
+          "#style",
+          "#foodie"
+        ],
+        "likes": 2061,
+        "comments": 56,
+        "shares": 27,
+        "views": 9178,
+        "timestamp": "2023-03-29T15:39:26",
+        "followers_at_post": 64234,
+        "engagement_rate": 0.0334
+      },
+      {
+        "post_id": "influencer_017_post_5",
+        "caption": "Check out my latest lifestyle post! #foodie #fashion",
+        "hashtags": [
+          "#foodie",
+          "#fashion"
+        ],
+        "likes": 1903,
+        "comments": 59,
+        "shares": 12,
+        "views": 8790,
+        "timestamp": "2023-05-16T18:58:42",
+        "followers_at_post": 71946,
+        "engagement_rate": 0.0274
+      },
+      {
+        "post_id": "influencer_017_post_6",
+        "caption": "Check out my latest lifestyle post! #travel #style #photography",
+        "hashtags": [
+          "#travel",
+          "#style",
+          "#photography"
+        ],
+        "likes": 8864,
+        "comments": 229,
+        "shares": 154,
+        "views": 31745,
+        "timestamp": "2023-09-09T10:51:49",
+        "followers_at_post": 90257,
+        "engagement_rate": 0.1025
+      },
+      {
+        "post_id": "influencer_017_post_7",
+        "caption": "Check out my latest lifestyle post! #travel #fashion",
+        "hashtags": [
+          "#travel",
+          "#fashion"
+        ],
+        "likes": 6993,
+        "comments": 75,
+        "shares": 88,
+        "views": 17961,
+        "timestamp": "2023-11-19T22:04:38",
+        "followers_at_post": 101092,
+        "engagement_rate": 0.0708
+      },
+      {
+        "post_id": "influencer_017_post_8",
+        "caption": "Check out my latest lifestyle post! #photography #life #style #foodie",
+        "hashtags": [
+          "#photography",
+          "#life",
+          "#style",
+          "#foodie"
+        ],
+        "likes": 6675,
+        "comments": 266,
+        "shares": 38,
+        "views": 30651,
+        "timestamp": "2024-01-21T12:48:31",
+        "followers_at_post": 113228,
+        "engagement_rate": 0.0616
+      },
+      {
+        "post_id": "influencer_017_post_9",
+        "caption": "Check out my latest lifestyle post! #foodie #life #style",
+        "hashtags": [
+          "#foodie",
+          "#life",
+          "#style"
+        ],
+        "likes": 10657,
+        "comments": 313,
+        "shares": 141,
+        "views": 51845,
+        "timestamp": "2024-03-14T14:29:22",
+        "followers_at_post": 126821,
+        "engagement_rate": 0.0876
+      },
+      {
+        "post_id": "influencer_017_post_10",
+        "caption": "Check out my latest lifestyle post! #style #foodie #travel #photography",
+        "hashtags": [
+          "#style",
+          "#foodie",
+          "#travel",
+          "#photography"
+        ],
+        "likes": 10088,
+        "comments": 479,
+        "shares": 130,
+        "views": 37799,
+        "timestamp": "2024-05-07T05:20:27",
+        "followers_at_post": 142046,
+        "engagement_rate": 0.0753
+      },
+      {
+        "post_id": "influencer_017_post_11",
+        "caption": "Check out my latest lifestyle post! #fashion #foodie #style",
+        "hashtags": [
+          "#fashion",
+          "#foodie",
+          "#style"
+        ],
+        "likes": 7953,
+        "comments": 246,
+        "shares": 149,
+        "views": 34307,
+        "timestamp": "2024-05-21T03:46:34",
+        "followers_at_post": 142046,
+        "engagement_rate": 0.0588
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_018",
+    "username": "entertainment_star_18",
+    "niche": "Entertainment",
+    "followers_start": 54583,
+    "monthly_follower_growth_pct": 0.6,
+    "avg_engagement_rate": 0.0642,
+    "post_count": 15,
+    "posts": [
+      {
+        "post_id": "influencer_018_post_1",
+        "caption": "Check out my latest entertainment post! #music #popculture #celebrity",
+        "hashtags": [
+          "#music",
+          "#popculture",
+          "#celebrity"
+        ],
+        "likes": 4204,
+        "comments": 97,
+        "shares": 74,
+        "views": 16909,
+        "timestamp": "2023-01-25T16:33:27",
+        "followers_at_post": 54583,
+        "engagement_rate": 0.0802
+      },
+      {
+        "post_id": "influencer_018_post_2",
+        "caption": "Check out my latest entertainment post! #celebrity #fun #music #movie",
+        "hashtags": [
+          "#celebrity",
+          "#fun",
+          "#music",
+          "#movie"
+        ],
+        "likes": 4284,
+        "comments": 90,
+        "shares": 81,
+        "views": 13478,
+        "timestamp": "2023-03-16T01:58:43",
+        "followers_at_post": 55240,
+        "engagement_rate": 0.0806
+      },
+      {
+        "post_id": "influencer_018_post_3",
+        "caption": "Check out my latest entertainment post! #celebrity #hollywood #music",
+        "hashtags": [
+          "#celebrity",
+          "#hollywood",
+          "#music"
+        ],
+        "likes": 1247,
+        "comments": 30,
+        "shares": 10,
+        "views": 2764,
+        "timestamp": "2023-04-05T01:28:31",
+        "followers_at_post": 55572,
+        "engagement_rate": 0.0232
+      },
+      {
+        "post_id": "influencer_018_post_4",
+        "caption": "Check out my latest entertainment post! #hollywood #movie #fun",
+        "hashtags": [
+          "#hollywood",
+          "#movie",
+          "#fun"
+        ],
+        "likes": 4773,
+        "comments": 96,
+        "shares": 51,
+        "views": 13263,
+        "timestamp": "2023-06-11T12:39:03",
+        "followers_at_post": 56241,
+        "engagement_rate": 0.0875
+      },
+      {
+        "post_id": "influencer_018_post_5",
+        "caption": "Check out my latest entertainment post! #celebrity #movie #popculture",
+        "hashtags": [
+          "#celebrity",
+          "#movie",
+          "#popculture"
+        ],
+        "likes": 3266,
+        "comments": 64,
+        "shares": 34,
+        "views": 4969,
+        "timestamp": "2023-06-13T21:44:11",
+        "followers_at_post": 56241,
+        "engagement_rate": 0.0598
+      },
+      {
+        "post_id": "influencer_018_post_6",
+        "caption": "Check out my latest entertainment post! #fun #movie #music",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#music"
+        ],
+        "likes": 3156,
+        "comments": 89,
+        "shares": 52,
+        "views": 14973,
+        "timestamp": "2023-07-22T13:54:42",
+        "followers_at_post": 56579,
+        "engagement_rate": 0.0583
+      },
+      {
+        "post_id": "influencer_018_post_7",
+        "caption": "Check out my latest entertainment post! #fun #movie #music #hollywood",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#music",
+          "#hollywood"
+        ],
+        "likes": 3398,
+        "comments": 47,
+        "shares": 52,
+        "views": 15967,
+        "timestamp": "2023-09-21T03:25:26",
+        "followers_at_post": 57260,
+        "engagement_rate": 0.0611
+      },
+      {
+        "post_id": "influencer_018_post_8",
+        "caption": "Check out my latest entertainment post! #hollywood #movie",
+        "hashtags": [
+          "#hollywood",
+          "#movie"
+        ],
+        "likes": 2929,
+        "comments": 80,
+        "shares": 34,
+        "views": 9155,
+        "timestamp": "2023-10-28T12:54:20",
+        "followers_at_post": 57604,
+        "engagement_rate": 0.0528
+      },
+      {
+        "post_id": "influencer_018_post_9",
+        "caption": "Check out my latest entertainment post! #fun #movie #celebrity",
+        "hashtags": [
+          "#fun",
+          "#movie",
+          "#celebrity"
+        ],
+        "likes": 3168,
+        "comments": 51,
+        "shares": 49,
+        "views": 11851,
+        "timestamp": "2023-11-03T14:46:57",
+        "followers_at_post": 57950,
+        "engagement_rate": 0.0564
+      },
+      {
+        "post_id": "influencer_018_post_10",
+        "caption": "Check out my latest entertainment post! #movie #popculture #fun #hollywood",
+        "hashtags": [
+          "#movie",
+          "#popculture",
+          "#fun",
+          "#hollywood"
+        ],
+        "likes": 5478,
+        "comments": 225,
+        "shares": 58,
+        "views": 16455,
+        "timestamp": "2023-12-17T15:25:05",
+        "followers_at_post": 58298,
+        "engagement_rate": 0.0988
+      },
+      {
+        "post_id": "influencer_018_post_11",
+        "caption": "Check out my latest entertainment post! #popculture #fun",
+        "hashtags": [
+          "#popculture",
+          "#fun"
+        ],
+        "likes": 2317,
+        "comments": 101,
+        "shares": 16,
+        "views": 5893,
+        "timestamp": "2023-12-21T18:51:54",
+        "followers_at_post": 58298,
+        "engagement_rate": 0.0418
+      },
+      {
+        "post_id": "influencer_018_post_12",
+        "caption": "Check out my latest entertainment post! #movie #popculture",
+        "hashtags": [
+          "#movie",
+          "#popculture"
+        ],
+        "likes": 4589,
+        "comments": 159,
+        "shares": 43,
+        "views": 8424,
+        "timestamp": "2024-01-12T14:27:25",
+        "followers_at_post": 58648,
+        "engagement_rate": 0.0817
+      },
+      {
+        "post_id": "influencer_018_post_13",
+        "caption": "Check out my latest entertainment post! #fun #music",
+        "hashtags": [
+          "#fun",
+          "#music"
+        ],
+        "likes": 1001,
+        "comments": 49,
+        "shares": 5,
+        "views": 1558,
+        "timestamp": "2024-02-19T13:57:47",
+        "followers_at_post": 59000,
+        "engagement_rate": 0.0179
+      },
+      {
+        "post_id": "influencer_018_post_14",
+        "caption": "Check out my latest entertainment post! #fun #celebrity #popculture #movie",
+        "hashtags": [
+          "#fun",
+          "#celebrity",
+          "#popculture",
+          "#movie"
+        ],
+        "likes": 5369,
+        "comments": 182,
+        "shares": 44,
+        "views": 26308,
+        "timestamp": "2024-04-13T21:00:08",
+        "followers_at_post": 59710,
+        "engagement_rate": 0.0937
+      },
+      {
+        "post_id": "influencer_018_post_15",
+        "caption": "Check out my latest entertainment post! #fun #music #hollywood",
+        "hashtags": [
+          "#fun",
+          "#music",
+          "#hollywood"
+        ],
+        "likes": 4052,
+        "comments": 54,
+        "shares": 46,
+        "views": 7414,
+        "timestamp": "2024-05-19T00:19:37",
+        "followers_at_post": 60069,
+        "engagement_rate": 0.0691
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_019",
+    "username": "fitness_star_19",
+    "niche": "Fitness",
+    "followers_start": 15431,
+    "monthly_follower_growth_pct": 1.13,
+    "avg_engagement_rate": 0.0771,
+    "post_count": 10,
+    "posts": [
+      {
+        "post_id": "influencer_019_post_1",
+        "caption": "Check out my latest fitness post! #motivation #workout #health",
+        "hashtags": [
+          "#motivation",
+          "#workout",
+          "#health"
+        ],
+        "likes": 1020,
+        "comments": 27,
+        "shares": 14,
+        "views": 3686,
+        "timestamp": "2023-01-31T15:08:23",
+        "followers_at_post": 15431,
+        "engagement_rate": 0.0688
+      },
+      {
+        "post_id": "influencer_019_post_2",
+        "caption": "Check out my latest fitness post! #fitlife #gym #workout",
+        "hashtags": [
+          "#fitlife",
+          "#gym",
+          "#workout"
+        ],
+        "likes": 390,
+        "comments": 12,
+        "shares": 5,
+        "views": 1793,
+        "timestamp": "2023-02-19T13:09:29",
+        "followers_at_post": 15605,
+        "engagement_rate": 0.0261
+      },
+      {
+        "post_id": "influencer_019_post_3",
+        "caption": "Check out my latest fitness post! #motivation #fitness",
+        "hashtags": [
+          "#motivation",
+          "#fitness"
+        ],
+        "likes": 1552,
+        "comments": 53,
+        "shares": 23,
+        "views": 7734,
+        "timestamp": "2023-05-01T15:01:24",
+        "followers_at_post": 16140,
+        "engagement_rate": 0.1009
+      },
+      {
+        "post_id": "influencer_019_post_4",
+        "caption": "Check out my latest fitness post! #workout #health",
+        "hashtags": [
+          "#workout",
+          "#health"
+        ],
+        "likes": 1269,
+        "comments": 58,
+        "shares": 20,
+        "views": 2967,
+        "timestamp": "2023-05-29T10:10:13",
+        "followers_at_post": 16140,
+        "engagement_rate": 0.0835
+      },
+      {
+        "post_id": "influencer_019_post_5",
+        "caption": "Check out my latest fitness post! #fitlife #fitness #workout",
+        "hashtags": [
+          "#fitlife",
+          "#fitness",
+          "#workout"
+        ],
+        "likes": 1578,
+        "comments": 66,
+        "shares": 19,
+        "views": 5610,
+        "timestamp": "2023-07-10T21:40:46",
+        "followers_at_post": 16506,
+        "engagement_rate": 0.1008
+      },
+      {
+        "post_id": "influencer_019_post_6",
+        "caption": "Check out my latest fitness post! #health #fitlife #gym #fitness",
+        "hashtags": [
+          "#health",
+          "#fitlife",
+          "#gym",
+          "#fitness"
+        ],
+        "likes": 1506,
+        "comments": 56,
+        "shares": 23,
+        "views": 7046,
+        "timestamp": "2023-10-15T03:50:46",
+        "followers_at_post": 17072,
+        "engagement_rate": 0.0928
+      },
+      {
+        "post_id": "influencer_019_post_7",
+        "caption": "Check out my latest fitness post! #health #gym #workout #fitlife",
+        "hashtags": [
+          "#health",
+          "#gym",
+          "#workout",
+          "#fitlife"
+        ],
+        "likes": 1641,
+        "comments": 67,
+        "shares": 20,
+        "views": 4058,
+        "timestamp": "2023-10-18T17:16:54",
+        "followers_at_post": 17072,
+        "engagement_rate": 0.1012
+      },
+      {
+        "post_id": "influencer_019_post_8",
+        "caption": "Check out my latest fitness post! #gym #motivation",
+        "hashtags": [
+          "#gym",
+          "#motivation"
+        ],
+        "likes": 969,
+        "comments": 19,
+        "shares": 10,
+        "views": 2428,
+        "timestamp": "2023-12-08T00:36:27",
+        "followers_at_post": 17460,
+        "engagement_rate": 0.0572
+      },
+      {
+        "post_id": "influencer_019_post_9",
+        "caption": "Check out my latest fitness post! #workout #health #gym",
+        "hashtags": [
+          "#workout",
+          "#health",
+          "#gym"
+        ],
+        "likes": 1567,
+        "comments": 21,
+        "shares": 14,
+        "views": 4661,
+        "timestamp": "2023-12-12T04:35:45",
+        "followers_at_post": 17460,
+        "engagement_rate": 0.0918
+      },
+      {
+        "post_id": "influencer_019_post_10",
+        "caption": "Check out my latest fitness post! #gym #workout #fitlife #health",
+        "hashtags": [
+          "#gym",
+          "#workout",
+          "#fitlife",
+          "#health"
+        ],
+        "likes": 858,
+        "comments": 28,
+        "shares": 15,
+        "views": 3319,
+        "timestamp": "2024-06-06T05:28:17",
+        "followers_at_post": 18677,
+        "engagement_rate": 0.0482
+      }
+    ]
+  },
+  {
+    "influencer_id": "influencer_020",
+    "username": "entertainment_star_20",
+    "niche": "Entertainment",
+    "followers_start": 71034,
+    "monthly_follower_growth_pct": 2.64,
+    "avg_engagement_rate": 0.0536,
+    "post_count": 8,
+    "posts": [
+      {
+        "post_id": "influencer_020_post_1",
+        "caption": "Check out my latest entertainment post! #hollywood #celebrity",
+        "hashtags": [
+          "#hollywood",
+          "#celebrity"
+        ],
+        "likes": 3926,
+        "comments": 43,
+        "shares": 43,
+        "views": 8179,
+        "timestamp": "2023-01-21T22:07:56",
+        "followers_at_post": 71034,
+        "engagement_rate": 0.0565
+      },
+      {
+        "post_id": "influencer_020_post_2",
+        "caption": "Check out my latest entertainment post! #hollywood #popculture #movie",
+        "hashtags": [
+          "#hollywood",
+          "#popculture",
+          "#movie"
+        ],
+        "likes": 2869,
+        "comments": 68,
+        "shares": 54,
+        "views": 9840,
+        "timestamp": "2023-01-30T09:42:19",
+        "followers_at_post": 71034,
+        "engagement_rate": 0.0421
+      },
+      {
+        "post_id": "influencer_020_post_3",
+        "caption": "Check out my latest entertainment post! #music #popculture #hollywood",
+        "hashtags": [
+          "#music",
+          "#popculture",
+          "#hollywood"
+        ],
+        "likes": 7030,
+        "comments": 193,
+        "shares": 61,
+        "views": 18003,
+        "timestamp": "2023-05-27T08:58:27",
+        "followers_at_post": 78844,
+        "engagement_rate": 0.0924
+      },
+      {
+        "post_id": "influencer_020_post_4",
+        "caption": "Check out my latest entertainment post! #hollywood #movie",
+        "hashtags": [
+          "#hollywood",
+          "#movie"
+        ],
+        "likes": 4136,
+        "comments": 124,
+        "shares": 73,
+        "views": 15508,
+        "timestamp": "2023-08-26T02:24:59",
+        "followers_at_post": 85260,
+        "engagement_rate": 0.0508
+      },
+      {
+        "post_id": "influencer_020_post_5",
+        "caption": "Check out my latest entertainment post! #celebrity #fun #hollywood",
+        "hashtags": [
+          "#celebrity",
+          "#fun",
+          "#hollywood"
+        ],
+        "likes": 4514,
+        "comments": 96,
+        "shares": 37,
+        "views": 16256,
+        "timestamp": "2023-11-09T17:02:05",
+        "followers_at_post": 92199,
+        "engagement_rate": 0.0504
+      },
+      {
+        "post_id": "influencer_020_post_6",
+        "caption": "Check out my latest entertainment post! #hollywood #fun #celebrity #movie",
+        "hashtags": [
+          "#hollywood",
+          "#fun",
+          "#celebrity",
+          "#movie"
+        ],
+        "likes": 3009,
+        "comments": 48,
+        "shares": 29,
+        "views": 14453,
+        "timestamp": "2023-12-06T10:28:45",
+        "followers_at_post": 94635,
+        "engagement_rate": 0.0326
+      },
+      {
+        "post_id": "influencer_020_post_7",
+        "caption": "Check out my latest entertainment post! #celebrity #hollywood #movie #music",
+        "hashtags": [
+          "#celebrity",
+          "#hollywood",
+          "#movie",
+          "#music"
+        ],
+        "likes": 7386,
+        "comments": 84,
+        "shares": 74,
+        "views": 28967,
+        "timestamp": "2024-03-09T17:19:26",
+        "followers_at_post": 102336,
+        "engagement_rate": 0.0737
+      },
+      {
+        "post_id": "influencer_020_post_8",
+        "caption": "Check out my latest entertainment post! #fun #celebrity #hollywood #popculture",
+        "hashtags": [
+          "#fun",
+          "#celebrity",
+          "#hollywood",
+          "#popculture"
+        ],
+        "likes": 3076,
+        "comments": 133,
+        "shares": 61,
+        "views": 5036,
+        "timestamp": "2024-05-18T14:45:38",
+        "followers_at_post": 107816,
+        "engagement_rate": 0.0303
+      }
+    ]
+  }
+]
